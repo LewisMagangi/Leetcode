@@ -5,6 +5,7 @@ Solving Problems to be a compitent software engineer.
 
 Return true if the value of the root is equal to the sum of the values of its two children, or false otherwise.
 Example 1:
+![image](https://github.com/Liquelaliqour/Leetcode/assets/93725160/7f2996e1-375a-403f-8355-c979a63d0d52)
 
 
 Input: root = [10,4,6]
