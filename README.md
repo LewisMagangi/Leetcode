@@ -25,6 +25,7 @@ Explanation: The values of the root, its left child, and its right child are 10,
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/LewisMagangi/Leetcode/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/LewisMagangi/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0412-fizz-buzz](https://github.com/LewisMagangi/Leetcode/tree/master/0412-fizz-buzz) |
 ## Simulation
 |  |
@@ -34,4 +35,8 @@ Explanation: The values of the root, its left child, and its right child are 10,
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/LewisMagangi/Leetcode/tree/master/0013-roman-to-integer) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/LewisMagangi/Leetcode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
