@@ -49,6 +49,7 @@ Explanation: The values of the root, its left child, and its right child are 10,
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/LewisMagangi/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/LewisMagangi/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0344-reverse-string](https://github.com/LewisMagangi/Leetcode/tree/master/0344-reverse-string) |
 ## String Matching
@@ -63,4 +64,8 @@ Explanation: The values of the root, its left child, and its right child are 10,
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/LewisMagangi/Leetcode/tree/master/0020-valid-parentheses) |
+## Array
+|  |
+| ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/LewisMagangi/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 <!---LeetCode Topics End-->
