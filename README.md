@@ -19,6 +19,7 @@ Explanation: The values of the root, its left child, and its right child are 10,
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/LewisMagangi/Leetcode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/LewisMagangi/Leetcode/tree/master/0013-roman-to-integer) |
 | [0412-fizz-buzz](https://github.com/LewisMagangi/Leetcode/tree/master/0412-fizz-buzz) |
 ## String
