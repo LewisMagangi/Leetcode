@@ -32,6 +32,7 @@ Explanation: The values of the root, its left child, and its right child are 10,
 | [0058-length-of-last-word](https://github.com/LewisMagangi/Leetcode/tree/master/0058-length-of-last-word) |
 | [0205-isomorphic-strings](https://github.com/LewisMagangi/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/LewisMagangi/Leetcode/tree/master/0242-valid-anagram) |
+| [0290-word-pattern](https://github.com/LewisMagangi/Leetcode/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/LewisMagangi/Leetcode/tree/master/0344-reverse-string) |
 | [0412-fizz-buzz](https://github.com/LewisMagangi/Leetcode/tree/master/0412-fizz-buzz) |
 ## Simulation
@@ -44,6 +45,7 @@ Explanation: The values of the root, its left child, and its right child are 10,
 | [0013-roman-to-integer](https://github.com/LewisMagangi/Leetcode/tree/master/0013-roman-to-integer) |
 | [0205-isomorphic-strings](https://github.com/LewisMagangi/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/LewisMagangi/Leetcode/tree/master/0242-valid-anagram) |
+| [0290-word-pattern](https://github.com/LewisMagangi/Leetcode/tree/master/0290-word-pattern) |
 ## Trie
 |  |
 | ------- |
