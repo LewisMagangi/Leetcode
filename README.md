@@ -34,6 +34,7 @@ Explanation: The values of the root, its left child, and its right child are 10,
 | [0242-valid-anagram](https://github.com/LewisMagangi/Leetcode/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/LewisMagangi/Leetcode/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/LewisMagangi/Leetcode/tree/master/0344-reverse-string) |
+| [0389-find-the-difference](https://github.com/LewisMagangi/Leetcode/tree/master/0389-find-the-difference) |
 | [0412-fizz-buzz](https://github.com/LewisMagangi/Leetcode/tree/master/0412-fizz-buzz) |
 ## Simulation
 |  |
@@ -46,6 +47,7 @@ Explanation: The values of the root, its left child, and its right child are 10,
 | [0205-isomorphic-strings](https://github.com/LewisMagangi/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/LewisMagangi/Leetcode/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/LewisMagangi/Leetcode/tree/master/0290-word-pattern) |
+| [0389-find-the-difference](https://github.com/LewisMagangi/Leetcode/tree/master/0389-find-the-difference) |
 ## Trie
 |  |
 | ------- |
@@ -64,6 +66,7 @@ Explanation: The values of the root, its left child, and its right child are 10,
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/LewisMagangi/Leetcode/tree/master/0242-valid-anagram) |
+| [0389-find-the-difference](https://github.com/LewisMagangi/Leetcode/tree/master/0389-find-the-difference) |
 ## Stack
 |  |
 | ------- |
@@ -72,4 +75,8 @@ Explanation: The values of the root, its left child, and its right child are 10,
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/LewisMagangi/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0389-find-the-difference](https://github.com/LewisMagangi/Leetcode/tree/master/0389-find-the-difference) |
 <!---LeetCode Topics End-->
