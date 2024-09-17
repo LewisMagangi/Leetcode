@@ -38,11 +38,13 @@ Explanation: The values of the root, its left child, and its right child are 10,
 | [0389-find-the-difference](https://github.com/LewisMagangi/Leetcode/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/LewisMagangi/Leetcode/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/LewisMagangi/Leetcode/tree/master/0412-fizz-buzz) |
+| [2886-faulty-keyboard](https://github.com/LewisMagangi/Leetcode/tree/master/2886-faulty-keyboard) |
 | [2887-sort-vowels-in-a-string](https://github.com/LewisMagangi/Leetcode/tree/master/2887-sort-vowels-in-a-string) |
 ## Simulation
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/LewisMagangi/Leetcode/tree/master/0412-fizz-buzz) |
+| [2886-faulty-keyboard](https://github.com/LewisMagangi/Leetcode/tree/master/2886-faulty-keyboard) |
 ## Hash Table
 |  |
 | ------- |
