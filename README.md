@@ -39,6 +39,7 @@ Explanation: The values of the root, its left child, and its right child are 10,
 | [0389-find-the-difference](https://github.com/LewisMagangi/Leetcode/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/LewisMagangi/Leetcode/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/LewisMagangi/Leetcode/tree/master/0412-fizz-buzz) |
+| [0451-sort-characters-by-frequency](https://github.com/LewisMagangi/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [2427-first-letter-to-appear-twice](https://github.com/LewisMagangi/Leetcode/tree/master/2427-first-letter-to-appear-twice) |
 | [2886-faulty-keyboard](https://github.com/LewisMagangi/Leetcode/tree/master/2886-faulty-keyboard) |
 | [2887-sort-vowels-in-a-string](https://github.com/LewisMagangi/Leetcode/tree/master/2887-sort-vowels-in-a-string) |
@@ -56,6 +57,7 @@ Explanation: The values of the root, its left child, and its right child are 10,
 | [0290-word-pattern](https://github.com/LewisMagangi/Leetcode/tree/master/0290-word-pattern) |
 | [0387-first-unique-character-in-a-string](https://github.com/LewisMagangi/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/LewisMagangi/Leetcode/tree/master/0389-find-the-difference) |
+| [0451-sort-characters-by-frequency](https://github.com/LewisMagangi/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [2427-first-letter-to-appear-twice](https://github.com/LewisMagangi/Leetcode/tree/master/2427-first-letter-to-appear-twice) |
 ## Trie
 |  |
@@ -78,6 +80,7 @@ Explanation: The values of the root, its left child, and its right child are 10,
 | ------- |
 | [0242-valid-anagram](https://github.com/LewisMagangi/Leetcode/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/LewisMagangi/Leetcode/tree/master/0389-find-the-difference) |
+| [0451-sort-characters-by-frequency](https://github.com/LewisMagangi/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [2887-sort-vowels-in-a-string](https://github.com/LewisMagangi/Leetcode/tree/master/2887-sort-vowels-in-a-string) |
 ## Stack
 |  |
@@ -104,5 +107,14 @@ Explanation: The values of the root, its left child, and its right child are 10,
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/LewisMagangi/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [0451-sort-characters-by-frequency](https://github.com/LewisMagangi/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [2427-first-letter-to-appear-twice](https://github.com/LewisMagangi/Leetcode/tree/master/2427-first-letter-to-appear-twice) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/LewisMagangi/Leetcode/tree/master/0451-sort-characters-by-frequency) |
+## Bucket Sort
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/LewisMagangi/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 <!---LeetCode Topics End-->
