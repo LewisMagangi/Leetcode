@@ -5,6 +5,7 @@
 | ------- |
 | [0009-palindrome-number](https://github.com/LewisMagangi/Leetcode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/LewisMagangi/Leetcode/tree/master/0013-roman-to-integer) |
+| [0066-plus-one](https://github.com/LewisMagangi/Leetcode/tree/master/0066-plus-one) |
 | [0412-fizz-buzz](https://github.com/LewisMagangi/Leetcode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/LewisMagangi/Leetcode/tree/master/0415-add-strings) |
 ## String
@@ -85,6 +86,7 @@
 | [0011-container-with-most-water](https://github.com/LewisMagangi/Leetcode/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/LewisMagangi/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/LewisMagangi/Leetcode/tree/master/0035-search-insert-position) |
+| [0066-plus-one](https://github.com/LewisMagangi/Leetcode/tree/master/0066-plus-one) |
 ## Bit Manipulation
 |  |
 | ------- |
