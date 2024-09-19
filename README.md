@@ -56,6 +56,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/LewisMagangi/Leetcode/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/LewisMagangi/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/LewisMagangi/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0344-reverse-string](https://github.com/LewisMagangi/Leetcode/tree/master/0344-reverse-string) |
@@ -81,6 +82,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/LewisMagangi/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0011-container-with-most-water](https://github.com/LewisMagangi/Leetcode/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/LewisMagangi/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 ## Bit Manipulation
 |  |
@@ -112,6 +114,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/LewisMagangi/Leetcode/tree/master/0011-container-with-most-water) |
 | [0409-longest-palindrome](https://github.com/LewisMagangi/Leetcode/tree/master/0409-longest-palindrome) |
 | [0680-valid-palindrome-ii](https://github.com/LewisMagangi/Leetcode/tree/master/0680-valid-palindrome-ii) |
 ## Binary Search
