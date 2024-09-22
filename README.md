@@ -58,6 +58,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/LewisMagangi/Leetcode/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/LewisMagangi/Leetcode/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/LewisMagangi/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/LewisMagangi/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0344-reverse-string](https://github.com/LewisMagangi/Leetcode/tree/master/0344-reverse-string) |
@@ -71,6 +72,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/LewisMagangi/Leetcode/tree/master/0015-3sum) |
 | [0242-valid-anagram](https://github.com/LewisMagangi/Leetcode/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/LewisMagangi/Leetcode/tree/master/0389-find-the-difference) |
 | [0451-sort-characters-by-frequency](https://github.com/LewisMagangi/Leetcode/tree/master/0451-sort-characters-by-frequency) |
@@ -84,6 +86,7 @@
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/LewisMagangi/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/LewisMagangi/Leetcode/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/LewisMagangi/Leetcode/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/LewisMagangi/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/LewisMagangi/Leetcode/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/LewisMagangi/Leetcode/tree/master/0066-plus-one) |
