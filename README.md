@@ -15,6 +15,7 @@
 | [0014-longest-common-prefix](https://github.com/LewisMagangi/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/LewisMagangi/Leetcode/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/LewisMagangi/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0049-group-anagrams](https://github.com/LewisMagangi/Leetcode/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/LewisMagangi/Leetcode/tree/master/0058-length-of-last-word) |
 | [0205-isomorphic-strings](https://github.com/LewisMagangi/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/LewisMagangi/Leetcode/tree/master/0242-valid-anagram) |
@@ -42,6 +43,7 @@
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/LewisMagangi/Leetcode/tree/master/0013-roman-to-integer) |
+| [0049-group-anagrams](https://github.com/LewisMagangi/Leetcode/tree/master/0049-group-anagrams) |
 | [0205-isomorphic-strings](https://github.com/LewisMagangi/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/LewisMagangi/Leetcode/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/LewisMagangi/Leetcode/tree/master/0290-word-pattern) |
@@ -73,6 +75,7 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/LewisMagangi/Leetcode/tree/master/0015-3sum) |
+| [0049-group-anagrams](https://github.com/LewisMagangi/Leetcode/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/LewisMagangi/Leetcode/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/LewisMagangi/Leetcode/tree/master/0389-find-the-difference) |
 | [0451-sort-characters-by-frequency](https://github.com/LewisMagangi/Leetcode/tree/master/0451-sort-characters-by-frequency) |
@@ -89,6 +92,7 @@
 | [0015-3sum](https://github.com/LewisMagangi/Leetcode/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/LewisMagangi/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/LewisMagangi/Leetcode/tree/master/0035-search-insert-position) |
+| [0049-group-anagrams](https://github.com/LewisMagangi/Leetcode/tree/master/0049-group-anagrams) |
 | [0066-plus-one](https://github.com/LewisMagangi/Leetcode/tree/master/0066-plus-one) |
 ## Bit Manipulation
 |  |
