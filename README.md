@@ -43,6 +43,7 @@
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/LewisMagangi/Leetcode/tree/master/0013-roman-to-integer) |
+| [0036-valid-sudoku](https://github.com/LewisMagangi/Leetcode/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/LewisMagangi/Leetcode/tree/master/0049-group-anagrams) |
 | [0205-isomorphic-strings](https://github.com/LewisMagangi/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/LewisMagangi/Leetcode/tree/master/0242-valid-anagram) |
@@ -94,6 +95,7 @@
 | [0015-3sum](https://github.com/LewisMagangi/Leetcode/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/LewisMagangi/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/LewisMagangi/Leetcode/tree/master/0035-search-insert-position) |
+| [0036-valid-sudoku](https://github.com/LewisMagangi/Leetcode/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/LewisMagangi/Leetcode/tree/master/0049-group-anagrams) |
 | [0066-plus-one](https://github.com/LewisMagangi/Leetcode/tree/master/0066-plus-one) |
 | [0238-product-of-array-except-self](https://github.com/LewisMagangi/Leetcode/tree/master/0238-product-of-array-except-self) |
@@ -152,4 +154,8 @@
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/LewisMagangi/Leetcode/tree/master/0238-product-of-array-except-self) |
+## Matrix
+|  |
+| ------- |
+| [0036-valid-sudoku](https://github.com/LewisMagangi/Leetcode/tree/master/0036-valid-sudoku) |
 <!---LeetCode Topics End-->
