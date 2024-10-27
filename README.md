@@ -46,6 +46,7 @@
 | [0036-valid-sudoku](https://github.com/LewisMagangi/Leetcode/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/LewisMagangi/Leetcode/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/LewisMagangi/Leetcode/tree/master/0128-longest-consecutive-sequence) |
+| [0169-majority-element](https://github.com/LewisMagangi/Leetcode/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/LewisMagangi/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/LewisMagangi/Leetcode/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/LewisMagangi/Leetcode/tree/master/0290-word-pattern) |
@@ -82,6 +83,7 @@
 | [0015-3sum](https://github.com/LewisMagangi/Leetcode/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/LewisMagangi/Leetcode/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/LewisMagangi/Leetcode/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/LewisMagangi/Leetcode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/LewisMagangi/Leetcode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/LewisMagangi/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0389-find-the-difference](https://github.com/LewisMagangi/Leetcode/tree/master/0389-find-the-difference) |
@@ -106,6 +108,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/LewisMagangi/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/LewisMagangi/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/LewisMagangi/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0169-majority-element](https://github.com/LewisMagangi/Leetcode/tree/master/0169-majority-element) |
 | [0238-product-of-array-except-self](https://github.com/LewisMagangi/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/LewisMagangi/Leetcode/tree/master/0347-top-k-frequent-elements) |
 ## Bit Manipulation
@@ -125,6 +128,7 @@
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/LewisMagangi/Leetcode/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/LewisMagangi/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/LewisMagangi/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/LewisMagangi/Leetcode/tree/master/0451-sort-characters-by-frequency) |
@@ -155,6 +159,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/LewisMagangi/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0169-majority-element](https://github.com/LewisMagangi/Leetcode/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/LewisMagangi/Leetcode/tree/master/0347-top-k-frequent-elements) |
 ## Quickselect
 |  |
