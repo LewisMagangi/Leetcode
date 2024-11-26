@@ -4,6 +4,16 @@ class Solution(object):
         :type s: str
         :rtype: int
         """
-        s = s.rstrip().rsplit(' ', 1)
-        return len(s[-1])
+
+        n = len(s) - 1
+        l = 0
+        
+        while n >= 0 and s[n] == " ":
+            n -= 1
+
+        while n >= 0 and s[n] != " ":
+            n -= 1
+            l += 1
+
+        return l 
         
