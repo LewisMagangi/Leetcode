@@ -108,6 +108,7 @@
 | [0035-search-insert-position](https://github.com/LewisMagangi/Leetcode/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/LewisMagangi/Leetcode/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/LewisMagangi/Leetcode/tree/master/0049-group-anagrams) |
+| [0055-jump-game](https://github.com/LewisMagangi/Leetcode/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/LewisMagangi/Leetcode/tree/master/0066-plus-one) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/LewisMagangi/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/LewisMagangi/Leetcode/tree/master/0088-merge-sorted-array) |
@@ -128,6 +129,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/LewisMagangi/Leetcode/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/LewisMagangi/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/LewisMagangi/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0392-is-subsequence](https://github.com/LewisMagangi/Leetcode/tree/master/0392-is-subsequence) |
@@ -158,6 +160,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/LewisMagangi/Leetcode/tree/master/0011-container-with-most-water) |
+| [0055-jump-game](https://github.com/LewisMagangi/Leetcode/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/LewisMagangi/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0409-longest-palindrome](https://github.com/LewisMagangi/Leetcode/tree/master/0409-longest-palindrome) |
 | [0680-valid-palindrome-ii](https://github.com/LewisMagangi/Leetcode/tree/master/0680-valid-palindrome-ii) |
