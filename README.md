@@ -92,6 +92,7 @@
 | [0169-majority-element](https://github.com/LewisMagangi/Leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/LewisMagangi/Leetcode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/LewisMagangi/Leetcode/tree/master/0242-valid-anagram) |
+| [0274-h-index](https://github.com/LewisMagangi/Leetcode/tree/master/0274-h-index) |
 | [0347-top-k-frequent-elements](https://github.com/LewisMagangi/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0389-find-the-difference](https://github.com/LewisMagangi/Leetcode/tree/master/0389-find-the-difference) |
 | [0451-sort-characters-by-frequency](https://github.com/LewisMagangi/Leetcode/tree/master/0451-sort-characters-by-frequency) |
@@ -123,6 +124,7 @@
 | [0189-rotate-array](https://github.com/LewisMagangi/Leetcode/tree/master/0189-rotate-array) |
 | [0229-majority-element-ii](https://github.com/LewisMagangi/Leetcode/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/LewisMagangi/Leetcode/tree/master/0238-product-of-array-except-self) |
+| [0274-h-index](https://github.com/LewisMagangi/Leetcode/tree/master/0274-h-index) |
 | [0347-top-k-frequent-elements](https://github.com/LewisMagangi/Leetcode/tree/master/0347-top-k-frequent-elements) |
 ## Bit Manipulation
 |  |
@@ -197,4 +199,8 @@
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/LewisMagangi/Leetcode/tree/master/0128-longest-consecutive-sequence) |
+## Counting Sort
+|  |
+| ------- |
+| [0274-h-index](https://github.com/LewisMagangi/Leetcode/tree/master/0274-h-index) |
 <!---LeetCode Topics End-->
