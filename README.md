@@ -72,6 +72,7 @@
 | [0015-3sum](https://github.com/LewisMagangi/Leetcode/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/LewisMagangi/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/LewisMagangi/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0042-trapping-rain-water](https://github.com/LewisMagangi/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/LewisMagangi/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/LewisMagangi/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0151-reverse-words-in-a-string](https://github.com/LewisMagangi/Leetcode/tree/master/0151-reverse-words-in-a-string) |
@@ -103,6 +104,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/LewisMagangi/Leetcode/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/LewisMagangi/Leetcode/tree/master/0042-trapping-rain-water) |
 ## Array
 |  |
 | ------- |
@@ -112,6 +114,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/LewisMagangi/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/LewisMagangi/Leetcode/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/LewisMagangi/Leetcode/tree/master/0036-valid-sudoku) |
+| [0042-trapping-rain-water](https://github.com/LewisMagangi/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/LewisMagangi/Leetcode/tree/master/0045-jump-game-ii) |
 | [0049-group-anagrams](https://github.com/LewisMagangi/Leetcode/tree/master/0049-group-anagrams) |
 | [0055-jump-game](https://github.com/LewisMagangi/Leetcode/tree/master/0055-jump-game) |
@@ -138,6 +141,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/LewisMagangi/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/LewisMagangi/Leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/LewisMagangi/Leetcode/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/LewisMagangi/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -216,4 +220,8 @@
 |  |
 | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/LewisMagangi/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/LewisMagangi/Leetcode/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
