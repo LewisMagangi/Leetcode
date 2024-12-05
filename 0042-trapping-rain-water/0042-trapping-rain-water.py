@@ -7,22 +7,24 @@ class Solution(object):
         if not height:
             return 0
 
-        n = len(height)
+        if not height:
+            return 0
+        
+        l = 0
+        r = len(height) - 1
+        leftmax = height[l]
+        rightmax = height[r]
         res = 0
-        maxleft = [0]*n
-        maxright = [0]*n
 
-        maxleft[0] = height[0]
-        for i in range(1, n):
-            maxleft[i] = max(maxleft[i - 1], height[i])
-
-        maxright[n - 1] = height[n - 1]
-        for i in range(n - 2, -1, -1):
-            maxright[i] = max(maxright[i + 1], height[i])
-
-        for i in range(n):
-            res += min(maxleft[i], maxright[i]) - height[i]
+        while l < r:
+            if height[l] <= height[r]:
+                l += 1
+                leftmax = max(leftmax, height[l])
+                res += leftmax - height[l]
+            else:
+                r -= 1
+                rightmax = max(rightmax, height[r])
+                res += rightmax - height[r]
         
         return res
-
         
