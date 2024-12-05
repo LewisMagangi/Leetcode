@@ -8,21 +8,21 @@ class Solution(object):
         if numRows >= len(s) or numRows == 1:
             return s
 
-        cr = 0
+        current_row = 0
         rows = ['']*numRows
-        gd = True
+        going_down = True
 
         for i in range(len(s)):
-            rows[cr] += s[i] 
-            if cr == 0:
-                gd = True
-            elif cr == numRows - 1:
-                gd = False
+            rows[current_row] += s[i] 
+            if current_row == 0:
+                going_down = True
+            elif current_row == numRows - 1:
+                going_down = False
             
-            if gd:
-                cr += 1
+            if going_down:
+                current_row += 1
             else:
-                cr -= 1
+                current_row -= 1
         
         return ''.join(rows)
             
