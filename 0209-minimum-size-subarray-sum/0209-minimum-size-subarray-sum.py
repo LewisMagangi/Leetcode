@@ -5,22 +5,14 @@ class Solution(object):
         :type nums: List[int]
         :rtype: int
         """
-        
-        l = 0
-        current_sum = 0
-        min_sub = 10 ** 6
+        l, res = 0, len(nums) + 1
+        total = 0
 
         for r in range(len(nums)):
-            current_sum += nums[r]
+            total += nums[r]
             
-            while current_sum >= target:
-                min_sub = min(min_sub, r - l + 1)
-                current_sum -= nums[l]
+            while total >= target:
+                res = min(res, r - l + 1)
+                total -= nums[l]
                 l += 1
-            
-        return min_sub if min_sub != (1000000) else 0
-
-            
-         
-
-        
+        return res if res != len(nums) + 1 else 0
