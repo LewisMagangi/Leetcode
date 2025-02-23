@@ -46,6 +46,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/LewisMagangi/Leetcode/tree/master/0054-spiral-matrix) |
 | [0068-text-justification](https://github.com/LewisMagangi/Leetcode/tree/master/0068-text-justification) |
 | [0412-fizz-buzz](https://github.com/LewisMagangi/Leetcode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/LewisMagangi/Leetcode/tree/master/0415-add-strings) |
@@ -129,6 +130,7 @@
 | [0042-trapping-rain-water](https://github.com/LewisMagangi/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/LewisMagangi/Leetcode/tree/master/0045-jump-game-ii) |
 | [0049-group-anagrams](https://github.com/LewisMagangi/Leetcode/tree/master/0049-group-anagrams) |
+| [0054-spiral-matrix](https://github.com/LewisMagangi/Leetcode/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/LewisMagangi/Leetcode/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/LewisMagangi/Leetcode/tree/master/0066-plus-one) |
 | [0068-text-justification](https://github.com/LewisMagangi/Leetcode/tree/master/0068-text-justification) |
@@ -222,6 +224,7 @@
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/LewisMagangi/Leetcode/tree/master/0036-valid-sudoku) |
+| [0054-spiral-matrix](https://github.com/LewisMagangi/Leetcode/tree/master/0054-spiral-matrix) |
 ## Union Find
 |  |
 | ------- |
