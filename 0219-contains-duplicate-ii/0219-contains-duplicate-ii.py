@@ -8,15 +8,10 @@ class Solution(object):
         :rtype: bool
         """
         
-        window = set()
+        index_map = {}
 
-        l = 0
-
-        for r in range(len(nums)):
-            if r - l > k:
-                window.remove(nums[l])
-                l += 1
-            if nums[r] in window:
+        for i, num in enumerate(nums):
+            if num in index_map and i - index_map[num] <= k:
                 return True
-            window.add(nums[r])
-        return False 
+            index_map[num] = i
+        return False
