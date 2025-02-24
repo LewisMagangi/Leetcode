@@ -1,13 +1,15 @@
+from collections import deque
+
 class Solution(object):
     def isValid(self, s):
         """
         :type s: str
         :rtype: bool
         """
+
         s_dict = {'(':')', '{':'}', '[':']'}
 
-        stack = []
-
+        stack = deque()
         for i in s:
             if i in s_dict.keys():
                 stack.append(i)
