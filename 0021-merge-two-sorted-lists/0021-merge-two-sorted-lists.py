@@ -35,6 +35,6 @@ class Solution(object):
                 list2 = list2.next
             tail = tail.next
         
-        tail.next = list1 if list1 else list2
+        tail.next = list1 or list2
 
         return dummy.next
