@@ -73,6 +73,7 @@
 | [0138-copy-list-with-random-pointer](https://github.com/LewisMagangi/Leetcode/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/LewisMagangi/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/LewisMagangi/Leetcode/tree/master/0142-linked-list-cycle-ii) |
+| [0146-lru-cache](https://github.com/LewisMagangi/Leetcode/tree/master/0146-lru-cache) |
 | [0169-majority-element](https://github.com/LewisMagangi/Leetcode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/LewisMagangi/Leetcode/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/LewisMagangi/Leetcode/tree/master/0205-isomorphic-strings) |
@@ -275,6 +276,7 @@
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/LewisMagangi/Leetcode/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/LewisMagangi/Leetcode/tree/master/0155-min-stack) |
 | [0380-insert-delete-getrandom-o1](https://github.com/LewisMagangi/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 ## Randomized
@@ -306,6 +308,7 @@
 | [0138-copy-list-with-random-pointer](https://github.com/LewisMagangi/Leetcode/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/LewisMagangi/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/LewisMagangi/Leetcode/tree/master/0142-linked-list-cycle-ii) |
+| [0146-lru-cache](https://github.com/LewisMagangi/Leetcode/tree/master/0146-lru-cache) |
 | [0206-reverse-linked-list](https://github.com/LewisMagangi/Leetcode/tree/master/0206-reverse-linked-list) |
 ## Recursion
 |  |
@@ -341,4 +344,8 @@
 | [0101-symmetric-tree](https://github.com/LewisMagangi/Leetcode/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/LewisMagangi/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/LewisMagangi/Leetcode/tree/master/0226-invert-binary-tree) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/LewisMagangi/Leetcode/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
