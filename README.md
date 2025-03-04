@@ -69,6 +69,7 @@
 | [0041-first-missing-positive](https://github.com/LewisMagangi/Leetcode/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/LewisMagangi/Leetcode/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/LewisMagangi/Leetcode/tree/master/0076-minimum-window-substring) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/LewisMagangi/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0128-longest-consecutive-sequence](https://github.com/LewisMagangi/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0138-copy-list-with-random-pointer](https://github.com/LewisMagangi/Leetcode/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/LewisMagangi/Leetcode/tree/master/0141-linked-list-cycle) |
@@ -167,6 +168,7 @@
 | [0068-text-justification](https://github.com/LewisMagangi/Leetcode/tree/master/0068-text-justification) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/LewisMagangi/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/LewisMagangi/Leetcode/tree/master/0088-merge-sorted-array) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/LewisMagangi/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/LewisMagangi/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/LewisMagangi/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/LewisMagangi/Leetcode/tree/master/0128-longest-consecutive-sequence) |
@@ -249,6 +251,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/LewisMagangi/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/LewisMagangi/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0169-majority-element](https://github.com/LewisMagangi/Leetcode/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/LewisMagangi/Leetcode/tree/master/0347-top-k-frequent-elements) |
 ## Quickselect
@@ -322,6 +325,7 @@
 | [0100-same-tree](https://github.com/LewisMagangi/Leetcode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/LewisMagangi/Leetcode/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/LewisMagangi/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/LewisMagangi/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0112-path-sum](https://github.com/LewisMagangi/Leetcode/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/LewisMagangi/Leetcode/tree/master/0226-invert-binary-tree) |
 ## Depth-First Search
@@ -346,6 +350,7 @@
 | [0100-same-tree](https://github.com/LewisMagangi/Leetcode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/LewisMagangi/Leetcode/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/LewisMagangi/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/LewisMagangi/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0112-path-sum](https://github.com/LewisMagangi/Leetcode/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/LewisMagangi/Leetcode/tree/master/0226-invert-binary-tree) |
 ## Doubly-Linked List
