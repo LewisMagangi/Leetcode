@@ -5,8 +5,8 @@ class Solution(object):
         :type nums2: List[int]
         :rtype: float
         """
-        ml = nums1 + nums2
-        sl = sorted(ml)
+        sl = nums1 + nums2
+        sl.sort()
         l_len = len(sl)
         middle_index = l_len // 2
 
