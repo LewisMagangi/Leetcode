@@ -5,10 +5,17 @@ class Solution(object):
         :type target: int
         :rtype: int
         """
-        if target in nums:
-            return nums.index(target)
-        else:
-            nums.append(target)
-            nums.sort()
-            return nums.index(target)
+        l = 0
+        r = len(nums)
+        
+        while l < r:
+            if nums[l] == target:
+                return l
+            elif nums[l] < target:
+                l += 1
+            else:
+                r -= 1
+        return l
+                
+
         
