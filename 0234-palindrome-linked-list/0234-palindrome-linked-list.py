@@ -9,11 +9,27 @@ class Solution(object):
         :type head: Optional[ListNode]
         :rtype: bool
         """
-        curr = head
-        list_node = []
-        while curr:
-            list_node.append(curr.val)
-            curr = curr.next
-        return list_node == list_node[::-1]
+        slow = head
+        fast = head
+
+        while fast and fast.next:
+            slow = slow.next
+            fast = fast.next.next
+        
+        prev = None
+        
+        while slow:
+            nxt_node = slow.next
+            slow.next = prev
+            prev = slow
+            slow = nxt_node
+
+        left, right = head, prev
+        while right:
+            if right.val != left.val:
+                return False
+            left = left.next
+            right = right.next
+        return True
 
         
