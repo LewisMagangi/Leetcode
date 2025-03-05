@@ -12,15 +12,9 @@ class Solution(object):
         """
         curra, currb = headA, headB
 
-        seen = set()
-
-        while curra:
-            seen.add(curra)
-            curra = curra.next
-        
-        while currb:
-            if currb in seen:
-                return currb
-            currb = currb.next
+        while curra != currb:
+            curra = curra.next if curra else headB
+            currb = currb.next if currb else headA
+        return curra  
         
         
