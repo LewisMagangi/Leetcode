@@ -93,6 +93,7 @@
 | [0389-find-the-difference](https://github.com/LewisMagangi/Leetcode/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/LewisMagangi/Leetcode/tree/master/0409-longest-palindrome) |
 | [0451-sort-characters-by-frequency](https://github.com/LewisMagangi/Leetcode/tree/master/0451-sort-characters-by-frequency) |
+| [0816-design-hashset](https://github.com/LewisMagangi/Leetcode/tree/master/0816-design-hashset) |
 | [2427-first-letter-to-appear-twice](https://github.com/LewisMagangi/Leetcode/tree/master/2427-first-letter-to-appear-twice) |
 ## Trie
 |  |
@@ -196,6 +197,7 @@
 | [0287-find-the-duplicate-number](https://github.com/LewisMagangi/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0347-top-k-frequent-elements](https://github.com/LewisMagangi/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0380-insert-delete-getrandom-o1](https://github.com/LewisMagangi/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
+| [0816-design-hashset](https://github.com/LewisMagangi/Leetcode/tree/master/0816-design-hashset) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -292,6 +294,7 @@
 | [0146-lru-cache](https://github.com/LewisMagangi/Leetcode/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/LewisMagangi/Leetcode/tree/master/0155-min-stack) |
 | [0380-insert-delete-getrandom-o1](https://github.com/LewisMagangi/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
+| [0816-design-hashset](https://github.com/LewisMagangi/Leetcode/tree/master/0816-design-hashset) |
 ## Randomized
 |  |
 | ------- |
@@ -327,6 +330,7 @@
 | [0203-remove-linked-list-elements](https://github.com/LewisMagangi/Leetcode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/LewisMagangi/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/LewisMagangi/Leetcode/tree/master/0234-palindrome-linked-list) |
+| [0816-design-hashset](https://github.com/LewisMagangi/Leetcode/tree/master/0816-design-hashset) |
 | [0908-middle-of-the-linked-list](https://github.com/LewisMagangi/Leetcode/tree/master/0908-middle-of-the-linked-list) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/LewisMagangi/Leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 ## Recursion
@@ -380,4 +384,8 @@
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/LewisMagangi/Leetcode/tree/master/0146-lru-cache) |
+## Hash Function
+|  |
+| ------- |
+| [0816-design-hashset](https://github.com/LewisMagangi/Leetcode/tree/master/0816-design-hashset) |
 <!---LeetCode Topics End-->
