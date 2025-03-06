@@ -127,6 +127,7 @@
 | [0344-reverse-string](https://github.com/LewisMagangi/Leetcode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/LewisMagangi/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/LewisMagangi/Leetcode/tree/master/0392-is-subsequence) |
+| [0528-swapping-nodes-in-a-linked-list](https://github.com/LewisMagangi/Leetcode/tree/master/0528-swapping-nodes-in-a-linked-list) |
 | [0680-valid-palindrome-ii](https://github.com/LewisMagangi/Leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0908-middle-of-the-linked-list](https://github.com/LewisMagangi/Leetcode/tree/master/0908-middle-of-the-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/LewisMagangi/Leetcode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
@@ -335,6 +336,7 @@
 | [0206-reverse-linked-list](https://github.com/LewisMagangi/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/LewisMagangi/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/LewisMagangi/Leetcode/tree/master/0237-delete-node-in-a-linked-list) |
+| [0528-swapping-nodes-in-a-linked-list](https://github.com/LewisMagangi/Leetcode/tree/master/0528-swapping-nodes-in-a-linked-list) |
 | [0816-design-hashset](https://github.com/LewisMagangi/Leetcode/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/LewisMagangi/Leetcode/tree/master/0817-design-hashmap) |
 | [0908-middle-of-the-linked-list](https://github.com/LewisMagangi/Leetcode/tree/master/0908-middle-of-the-linked-list) |
