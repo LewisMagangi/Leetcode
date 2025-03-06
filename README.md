@@ -129,6 +129,7 @@
 | [0392-is-subsequence](https://github.com/LewisMagangi/Leetcode/tree/master/0392-is-subsequence) |
 | [0680-valid-palindrome-ii](https://github.com/LewisMagangi/Leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0908-middle-of-the-linked-list](https://github.com/LewisMagangi/Leetcode/tree/master/0908-middle-of-the-linked-list) |
+| [2216-delete-the-middle-node-of-a-linked-list](https://github.com/LewisMagangi/Leetcode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## String Matching
 |  |
 | ------- |
@@ -338,6 +339,7 @@
 | [0817-design-hashmap](https://github.com/LewisMagangi/Leetcode/tree/master/0817-design-hashmap) |
 | [0908-middle-of-the-linked-list](https://github.com/LewisMagangi/Leetcode/tree/master/0908-middle-of-the-linked-list) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/LewisMagangi/Leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
+| [2216-delete-the-middle-node-of-a-linked-list](https://github.com/LewisMagangi/Leetcode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## Recursion
 |  |
 | ------- |
