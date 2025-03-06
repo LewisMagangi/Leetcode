@@ -10,13 +10,17 @@ class Solution(object):
         :type root: Optional[TreeNode]
         :rtype: List[int]
         """
-        if root == None:
-            return []
+        def dfs(node, res):
+            if node is None:
+                return []
 
-        node_list = []
-        node_list.extend(self.postorderTraversal(root.left))
-        node_list.extend(self.postorderTraversal(root.right))
-        node_list.append(root.val)
+            dfs(node.left, res)
+            dfs(node.right, res)
+            res.append(node.val)
 
-        return node_list
+        res = []
+        dfs(root, res)
+
+        return res
+
         
