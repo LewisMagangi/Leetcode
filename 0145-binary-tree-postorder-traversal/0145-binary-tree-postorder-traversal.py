@@ -14,8 +14,8 @@ class Solution(object):
             return []
 
         node_list = []
-        node_list += self.postorderTraversal(root.left)
-        node_list += self.postorderTraversal(root.right)
+        node_list.extend(self.postorderTraversal(root.left))
+        node_list.extend(self.postorderTraversal(root.right))
         node_list.append(root.val)
 
         return node_list
