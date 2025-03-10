@@ -10,17 +10,15 @@ class Solution(object):
         :rtype: Optional[ListNode]
         """
         curr = head
-        tail = dummy = ListNode()
 
         while curr.next: 
-            node = ListNode(0)
+            node = curr = curr.next
             while curr.next.val != 0:
                 node.val += curr.next.val
                 curr = curr.next
-            tail.next = node
-            tail = tail.next
             curr = curr.next
-        return dummy.next
+            node.next = curr.next
+        return head.next
 
             
         
