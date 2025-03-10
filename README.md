@@ -58,6 +58,7 @@
 | [0068-text-justification](https://github.com/LewisMagangi/Leetcode/tree/master/0068-text-justification) |
 | [0412-fizz-buzz](https://github.com/LewisMagangi/Leetcode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/LewisMagangi/Leetcode/tree/master/0415-add-strings) |
+| [2299-merge-nodes-in-between-zeros](https://github.com/LewisMagangi/Leetcode/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2886-faulty-keyboard](https://github.com/LewisMagangi/Leetcode/tree/master/2886-faulty-keyboard) |
 ## Hash Table
 |  |
@@ -347,6 +348,7 @@
 | [0908-middle-of-the-linked-list](https://github.com/LewisMagangi/Leetcode/tree/master/0908-middle-of-the-linked-list) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/LewisMagangi/Leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/LewisMagangi/Leetcode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
+| [2299-merge-nodes-in-between-zeros](https://github.com/LewisMagangi/Leetcode/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/LewisMagangi/Leetcode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 ## Recursion
 |  |
