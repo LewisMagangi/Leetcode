@@ -16,42 +16,27 @@ class Solution(object):
         :rtype: Node
         """
         """
-        Inorder Traversal - Root, Left, Right. This is the way the input root Node is traversed.
-        I'll implement inorder traversal recursively and once I reach a next node I'll check if the right node is present if
-        it is I'll replace it's val with the next val else the right(Node) will be set to Null.
+        This function uses level-order (BFS) traversal to connect each node's 'next' pointer to its immediate right neighbor.
+        It processes nodes level by level using a queue. For each level, it iterates through all nodes, linking the previous node
+        to the current one, and enqueues the child nodes for the next level.
         """
         if not root:
             return None
         
-        queue = deque()
-        queue.append(root)
+        queue = deque([root])
 
         while queue:
-            curr = None
-            nxt = None
+            size = len(queue)
+            prev = None
 
-            for _ in range(len(queue)):
-                if not curr:
-                    curr = queue.popleft()
-                    if curr.left:
-                        queue.append(curr.left)
-                    if curr.right:
-                        queue.append(curr.right)
+            for _ in range(size):
+                node = queue.popleft()
+                if prev:
+                    prev.next = node
+                prev = node
 
-                elif not nxt:
-                    nxt = queue.popleft()
-                    curr.next = nxt
-                    if nxt.left:
-                        queue.append(nxt.left)
-                    if nxt.right:
-                        queue.append(nxt.right)
-
-                else:
-                    curr = queue.popleft()
-                    nxt.next = curr
-                    if curr.left:
-                        queue.append(curr.left)
-                    if curr.right:
-                        queue.append(curr.right)
-                    nxt = curr
+                if node.left:
+                    queue.append(node.left)
+                if node.right:
+                    queue.append(node.right)
         return root
