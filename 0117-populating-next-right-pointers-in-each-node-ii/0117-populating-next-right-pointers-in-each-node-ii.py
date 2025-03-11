@@ -26,10 +26,9 @@ class Solution(object):
         queue = deque([root])
 
         while queue:
-            size = len(queue)
             prev = None
 
-            for _ in range(size):
+            for _ in range(len(queue)):
                 node = queue.popleft()
                 if prev:
                     prev.next = node
