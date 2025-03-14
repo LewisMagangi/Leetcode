@@ -180,6 +180,7 @@
 | [0042-trapping-rain-water](https://github.com/LewisMagangi/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/LewisMagangi/Leetcode/tree/master/0045-jump-game-ii) |
 | [0049-group-anagrams](https://github.com/LewisMagangi/Leetcode/tree/master/0049-group-anagrams) |
+| [0051-n-queens](https://github.com/LewisMagangi/Leetcode/tree/master/0051-n-queens) |
 | [0054-spiral-matrix](https://github.com/LewisMagangi/Leetcode/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/LewisMagangi/Leetcode/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/LewisMagangi/Leetcode/tree/master/0066-plus-one) |
@@ -469,4 +470,8 @@
 |  |
 | ------- |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/LewisMagangi/Leetcode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
+## Backtracking
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/LewisMagangi/Leetcode/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
