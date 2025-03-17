@@ -16,6 +16,7 @@
 | [0415-add-strings](https://github.com/LewisMagangi/Leetcode/tree/master/0415-add-strings) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/LewisMagangi/Leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/LewisMagangi/Leetcode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/LewisMagangi/Leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## String
 |  |
 | ------- |
@@ -61,6 +62,7 @@
 | [2299-merge-nodes-in-between-zeros](https://github.com/LewisMagangi/Leetcode/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2411-spiral-matrix-iv](https://github.com/LewisMagangi/Leetcode/tree/master/2411-spiral-matrix-iv) |
 | [2886-faulty-keyboard](https://github.com/LewisMagangi/Leetcode/tree/master/2886-faulty-keyboard) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/LewisMagangi/Leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -218,6 +220,7 @@
 | [0287-find-the-duplicate-number](https://github.com/LewisMagangi/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0389-find-the-difference](https://github.com/LewisMagangi/Leetcode/tree/master/0389-find-the-difference) |
 | [2427-first-letter-to-appear-twice](https://github.com/LewisMagangi/Leetcode/tree/master/2427-first-letter-to-appear-twice) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/LewisMagangi/Leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -367,6 +370,7 @@
 | [0203-remove-linked-list-elements](https://github.com/LewisMagangi/Leetcode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/LewisMagangi/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/LewisMagangi/Leetcode/tree/master/0234-palindrome-linked-list) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/LewisMagangi/Leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Tree
 |  |
 | ------- |
