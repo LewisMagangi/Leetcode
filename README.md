@@ -11,6 +11,7 @@
 | [0189-rotate-array](https://github.com/LewisMagangi/Leetcode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/LewisMagangi/Leetcode/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/LewisMagangi/Leetcode/tree/master/0268-missing-number) |
+| [0326-power-of-three](https://github.com/LewisMagangi/Leetcode/tree/master/0326-power-of-three) |
 | [0380-insert-delete-getrandom-o1](https://github.com/LewisMagangi/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0412-fizz-buzz](https://github.com/LewisMagangi/Leetcode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/LewisMagangi/Leetcode/tree/master/0415-add-strings) |
@@ -370,6 +371,7 @@
 | [0203-remove-linked-list-elements](https://github.com/LewisMagangi/Leetcode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/LewisMagangi/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/LewisMagangi/Leetcode/tree/master/0234-palindrome-linked-list) |
+| [0326-power-of-three](https://github.com/LewisMagangi/Leetcode/tree/master/0326-power-of-three) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/LewisMagangi/Leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Tree
 |  |
