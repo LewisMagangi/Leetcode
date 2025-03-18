@@ -4,19 +4,28 @@ class Solution(object):
         :type k: int
         :rtype: str
         """
-        def generate(n):
+        def length(n):
+            return 1 << n
+        
+        def find(n, k):
             if n == 0:
-                return "a"
-            
-            prev = generate(n - 1)
-            transformed = ''.join(chr(ord(i) + 1) for i in prev)
-            return prev + transformed
+                return 'a'
+
+            prev_len = length(n - 1)
+
+            if prev_len >= k:
+                return find(n - 1, k)
+            else:
+                original_char = find(n - 1, k - prev_len)
+                return chr(ord(original_char) + 1)
 
         n = 0
-        while len(generate(n)) < k:
+        while length(n) < k:
             n += 1
         
-        return generate(n)[k - 1]
+        return find(n, k)
+
+            
 
 
         
