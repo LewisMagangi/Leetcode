@@ -10,6 +10,7 @@
 | [0150-evaluate-reverse-polish-notation](https://github.com/LewisMagangi/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/LewisMagangi/Leetcode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/LewisMagangi/Leetcode/tree/master/0202-happy-number) |
+| [0231-power-of-two](https://github.com/LewisMagangi/Leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/LewisMagangi/Leetcode/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/LewisMagangi/Leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/LewisMagangi/Leetcode/tree/master/0342-power-of-four) |
@@ -218,6 +219,7 @@
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/LewisMagangi/Leetcode/tree/master/0222-count-complete-tree-nodes) |
+| [0231-power-of-two](https://github.com/LewisMagangi/Leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/LewisMagangi/Leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/LewisMagangi/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/LewisMagangi/Leetcode/tree/master/0342-power-of-four) |
@@ -372,6 +374,7 @@
 | [0025-reverse-nodes-in-k-group](https://github.com/LewisMagangi/Leetcode/tree/master/0025-reverse-nodes-in-k-group) |
 | [0203-remove-linked-list-elements](https://github.com/LewisMagangi/Leetcode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/LewisMagangi/Leetcode/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/LewisMagangi/Leetcode/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/LewisMagangi/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0326-power-of-three](https://github.com/LewisMagangi/Leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/LewisMagangi/Leetcode/tree/master/0342-power-of-four) |
