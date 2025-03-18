@@ -12,6 +12,7 @@
 | [0202-happy-number](https://github.com/LewisMagangi/Leetcode/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/LewisMagangi/Leetcode/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/LewisMagangi/Leetcode/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/LewisMagangi/Leetcode/tree/master/0342-power-of-four) |
 | [0380-insert-delete-getrandom-o1](https://github.com/LewisMagangi/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0412-fizz-buzz](https://github.com/LewisMagangi/Leetcode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/LewisMagangi/Leetcode/tree/master/0415-add-strings) |
@@ -219,6 +220,7 @@
 | [0222-count-complete-tree-nodes](https://github.com/LewisMagangi/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/LewisMagangi/Leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/LewisMagangi/Leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0342-power-of-four](https://github.com/LewisMagangi/Leetcode/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/LewisMagangi/Leetcode/tree/master/0389-find-the-difference) |
 | [2427-first-letter-to-appear-twice](https://github.com/LewisMagangi/Leetcode/tree/master/2427-first-letter-to-appear-twice) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/LewisMagangi/Leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
@@ -372,6 +374,7 @@
 | [0206-reverse-linked-list](https://github.com/LewisMagangi/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/LewisMagangi/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0326-power-of-three](https://github.com/LewisMagangi/Leetcode/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/LewisMagangi/Leetcode/tree/master/0342-power-of-four) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/LewisMagangi/Leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Tree
 |  |
