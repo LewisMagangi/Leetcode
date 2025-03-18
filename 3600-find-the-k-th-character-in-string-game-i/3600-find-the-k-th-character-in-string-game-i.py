@@ -4,11 +4,19 @@ class Solution(object):
         :type k: int
         :rtype: str
         """
-        word = [0]
+        def generate(n):
+            if n == 0:
+                return "a"
+            
+            prev = generate(n - 1)
+            transformed = ''.join(chr(ord(i) + 1) for i in prev)
+            return prev + transformed
+
+        n = 0
+        while len(generate(n)) < k:
+            n += 1
         
-        while len(word) < k:
-            word.extend([(x + 1) % 26 for x in word])
-        return chr(ord('a') + word[k - 1])
+        return generate(n)[k - 1]
 
 
         
