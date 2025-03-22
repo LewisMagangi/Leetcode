@@ -7,25 +7,15 @@ class Solution(object):
         if not digits:
             return []
         
-        res = []
-        DigitsToChar = {
-            '2': 'abc',
-            '3': 'def',
-            '4': 'ghi',
-            '5': 'jkl',
-            '6': 'mno',
-            '7': 'pqrs',
-            '8': 'tuv',
-            '9': 'wxyz'
-        }
+        DigitsToChar = ['abc', 'def', 'ghi', 'jkl', 'mno', 'pqrs', 'tuv', 'wxyz']
+        combinations = ['']
 
-        def backtrack(i, curr_str):
-            if i == len(digits):
-                res.append(curr_str)
-                return
-        
-            for c in DigitsToChar[digits[i]]:
-                backtrack(i + 1, curr_str + c)
-
-        backtrack(0, '') 
-        return res
+        for digit in digits:
+            new_combinations = []
+            letters = DigitsToChar[int(digit) - 2]
+            for prefix in combinations:
+                for letter in letters:
+                    new_combinations.append(prefix + letter)
+            combinations = new_combinations
+        return combinations
+            
