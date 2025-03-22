@@ -1,3 +1,5 @@
+from collections import deque
+
 class Solution(object):
     def letterCombinations(self, digits):
         """
@@ -7,15 +9,15 @@ class Solution(object):
         if not digits:
             return []
         
-        DigitsToChar = ['abc', 'def', 'ghi', 'jkl', 'mno', 'pqrs', 'tuv', 'wxyz']
-        combinations = ['']
+        DigitsToChar = {'2': 'abc', '3': 'def', '4': 'ghi', '5': 'jkl', '6': 'mno', '7': 'pqrs', '8': 'tuv', '9': 'wxyz'}
+        queue = deque([''])
 
         for digit in digits:
-            new_combinations = []
-            letters = DigitsToChar[int(digit) - 2]
-            for prefix in combinations:
+            level_size = len(queue)
+            letters = DigitsToChar[digit]
+            for _ in range(level_size):
+                combinations = queue.popleft()
                 for letter in letters:
-                    new_combinations.append(prefix + letter)
-            combinations = new_combinations
-        return combinations
+                    queue.append(combinations + letter)
+        return list(queue)
             
