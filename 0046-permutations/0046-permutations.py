@@ -4,9 +4,10 @@ class Solution(object):
         :type nums: List[int]
         :rtype: List[List[int]]
         """
-        result = []
         if len(nums) == 1:
             return [nums[:]]
+
+        result = []
 
         for i in range(len(nums)):
             n = nums.pop(0)
