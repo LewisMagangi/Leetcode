@@ -4,22 +4,12 @@ class Solution(object):
         :type n: int
         :rtype: List[str]
         """
-        stack = []
-        result = []
+        dp = [[] for _ in range(n + 1)]
+        dp[0] = [""]
 
-        def backtrack(openN, closedN):
-            if openN == closedN == n:
-                result.append(''.join(stack))
-                return
-            
-            if openN < n:
-                stack.append('(')
-                backtrack(openN + 1, closedN)
-                stack.pop()
-            
-            if closedN < openN:
-                stack.append(')')
-                backtrack(openN, closedN + 1)
-                stack.pop()
-        backtrack(0, 0)
-        return result
+        for i in range(1, n + 1):
+            for j in range(i):
+                for first in dp[j]:
+                    for second in dp[i - 1 - j]:
+                        dp[i].append('(' + first + ')' + second)
+        return dp[n]
