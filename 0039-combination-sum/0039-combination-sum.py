@@ -1,3 +1,5 @@
+from collections import deque
+
 class Solution(object):
     def combinationSum(self, candidates, target):
         """
@@ -5,20 +7,19 @@ class Solution(object):
         :type target: int
         :rtype: List[List[int]]
         """
+        queue = deque()
+        queue.append(([], 0, 0))
         result = []
-        def dfs(i, curr, total):
+
+        while queue:
+            path, total, index = queue.popleft()
             if total == target:
-                result.append(curr[:])
-                return
+                result.append(path)
+                continue
+            if total > target or index == len(candidates):
+                continue
             
-            if i >= len(candidates) or total > target:
-                return
-            
-            curr.append(candidates[i])
-            dfs(i, curr, total + candidates[i])
-            curr.pop()
-            dfs(i + 1, curr, total)
+            queue.append((path + [candidates[index]], total + candidates[index], index))
+            queue.append((path, total, index + 1))
         
-        dfs(0, [], 0)
         return result
-        
