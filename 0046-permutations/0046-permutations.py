@@ -4,17 +4,13 @@ class Solution(object):
         :type nums: List[int]
         :rtype: List[List[int]]
         """
-        if len(nums) == 1:
-            return [nums[:]]
-
         result = []
-
-        for i in range(len(nums)):
-            n = nums.pop(0)
-            permutations = self.permute(nums)
-            for permutation in permutations:
-                permutation.append(n)
-            result.extend(permutations)
-            nums.append(n)
+        def backtrack(path, remaining):
+            if not remaining:
+                result.append(path)
+                return
+            
+            for i in range(len(remaining)):
+                backtrack(path + [remaining[i]], remaining[:i] + remaining[i + 1:])
+        backtrack([], nums)
         return result
-        
