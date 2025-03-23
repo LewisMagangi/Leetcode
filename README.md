@@ -183,6 +183,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/LewisMagangi/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/LewisMagangi/Leetcode/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/LewisMagangi/Leetcode/tree/master/0036-valid-sudoku) |
+| [0039-combination-sum](https://github.com/LewisMagangi/Leetcode/tree/master/0039-combination-sum) |
 | [0041-first-missing-positive](https://github.com/LewisMagangi/Leetcode/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/LewisMagangi/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/LewisMagangi/Leetcode/tree/master/0045-jump-game-ii) |
@@ -489,6 +490,7 @@
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/LewisMagangi/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0039-combination-sum](https://github.com/LewisMagangi/Leetcode/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/LewisMagangi/Leetcode/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/LewisMagangi/Leetcode/tree/master/0051-n-queens) |
 | [0077-combinations](https://github.com/LewisMagangi/Leetcode/tree/master/0077-combinations) |
