@@ -218,6 +218,7 @@
 | [0287-find-the-duplicate-number](https://github.com/LewisMagangi/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0347-top-k-frequent-elements](https://github.com/LewisMagangi/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0380-insert-delete-getrandom-o1](https://github.com/LewisMagangi/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
+| [0695-max-area-of-island](https://github.com/LewisMagangi/Leetcode/tree/master/0695-max-area-of-island) |
 | [0816-design-hashset](https://github.com/LewisMagangi/Leetcode/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/LewisMagangi/Leetcode/tree/master/0817-design-hashmap) |
 | [2411-spiral-matrix-iv](https://github.com/LewisMagangi/Leetcode/tree/master/2411-spiral-matrix-iv) |
@@ -310,12 +311,14 @@
 | [0036-valid-sudoku](https://github.com/LewisMagangi/Leetcode/tree/master/0036-valid-sudoku) |
 | [0054-spiral-matrix](https://github.com/LewisMagangi/Leetcode/tree/master/0054-spiral-matrix) |
 | [0200-number-of-islands](https://github.com/LewisMagangi/Leetcode/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/LewisMagangi/Leetcode/tree/master/0695-max-area-of-island) |
 | [2411-spiral-matrix-iv](https://github.com/LewisMagangi/Leetcode/tree/master/2411-spiral-matrix-iv) |
 ## Union Find
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/LewisMagangi/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/LewisMagangi/Leetcode/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/LewisMagangi/Leetcode/tree/master/0695-max-area-of-island) |
 ## Counting Sort
 |  |
 | ------- |
@@ -434,6 +437,7 @@
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/LewisMagangi/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/LewisMagangi/Leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/LewisMagangi/Leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0695-max-area-of-island](https://github.com/LewisMagangi/Leetcode/tree/master/0695-max-area-of-island) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -449,6 +453,7 @@
 | [0226-invert-binary-tree](https://github.com/LewisMagangi/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/LewisMagangi/Leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/LewisMagangi/Leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0695-max-area-of-island](https://github.com/LewisMagangi/Leetcode/tree/master/0695-max-area-of-island) |
 ## Binary Tree
 |  |
 | ------- |
