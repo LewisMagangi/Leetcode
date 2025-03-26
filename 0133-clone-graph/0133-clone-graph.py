@@ -1,3 +1,5 @@
+from collections import deque
+
 """
 # Definition for a Node.
 class Node(object):
@@ -12,19 +14,18 @@ class Solution(object):
         :type node: Node
         :rtype: Node
         """
+    
         if not node:
             return None
 
-        OldToNew = {}
-
-        def dfs(node):
-            if node in OldToNew:
-                return OldToNew[node]
-            
-            copy = Node(node.val)
-            OldToNew[node] = copy
-
-            for neighbor in node.neighbors:
-                copy.neighbors.append(dfs(neighbor))
-            return copy
-        return dfs(node)
+        queue = deque([node])
+        old_to_new = {node: Node(node.val)}
+        
+        while queue:
+            current = queue.popleft()
+            for neighbor in current.neighbors:
+                if neighbor not in old_to_new:
+                    old_to_new[neighbor] = Node(neighbor.val)
+                    queue.append(neighbor)
+                old_to_new[current].neighbors.append(old_to_new[neighbor])
+        return old_to_new[node]
