@@ -1,5 +1,3 @@
-from collections import deque
-
 class Solution(object):
     def canFinish(self, numCourses, prerequisites):
         """
@@ -7,24 +5,30 @@ class Solution(object):
         :type prerequisites: List[List[int]]
         :rtype: bool
         """
-        adjacency_list = { i:[] for i in range(numCourses)}
+        
+        color = [0] * numCourses
 
-        in_degree = [0] * numCourses
+        graph = {i: [] for i in range(numCourses)}
 
         for course, prerequisite in prerequisites:
-            adjacency_list[prerequisite].append(course)
-            in_degree[course] += 1
-
-        queue = deque([i for i in range(numCourses) if in_degree[i] == 0])
-        processed_courses = 0
-
-        while queue:
-            course = queue.popleft()
-            processed_courses += 1
-
-            for dependent in adjacency_list[course]:
-                in_degree[dependent] -= 1
-                if in_degree[dependent] == 0:
-                    queue.append(dependent)
+            graph[course].append(prerequisite)
         
-        return processed_courses == numCourses
+        def dfs(course):
+            if color[course] == 1: # found a cycle (gray node)
+                return False
+            if color[course] == 2: # Already fully processed
+                return True
+            
+            color[course] = 1 # Mark node(gray) meaning visited
+
+            for prerequisite in graph[course]:
+                if not dfs(prerequisite):
+                    return False
+            
+            color[course] = 2 # Mark as black (finished)
+            return True
+        
+        for course in range(numCourses):
+            if not dfs(course):
+                return False
+        return True
