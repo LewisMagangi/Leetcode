@@ -5,40 +5,31 @@ class Solution(object):
         :type prerequisites: List[List[int]]
         :rtype: List[int]
         """
-        from collections import defaultdict
-        
-        # Step 1: Build the graph (adjacency list)
-        graph = defaultdict(list)
+        graph = {i: [] for i in range(numCourses)}
         for dest, src in prerequisites:
             graph[src].append(dest)
-        
-        # Step 2: Variables to track visited nodes
-        visited = set()   # Nodes that have been fully processed
-        recStack = set()  # Nodes currently in the recursion stack
-        order = []        # Stores topological order
 
-        # Step 3: DFS function to detect cycles and process nodes
-        def dfs(course):
-            if course in recStack:
-                return False  # Cycle detected
-            if course in visited:
-                return True   # Already processed
-            
-            recStack.add(course)  # Add to recursion stack
-            
-            for neighbor in graph[course]:
-                if not dfs(neighbor):
-                    return False  # If cycle found, return False
-            
-            recStack.remove(course)  # Remove from recursion stack
-            visited.add(course)      # Mark as fully processed
-            order.append(course)     # Append to result (postorder)
-            return True
+        color = [0] * numCourses  # 0: white, 1: gray, 2: black
+        order = []
+        valid = [True]  # Use a list to modify inside dfs()
 
-        # Step 4: Perform DFS for each course
+        def dfs(node):
+            if color[node] == 1:
+                valid[0] = False  # Cycle detected
+                return
+            if color[node] == 2:
+                return  # Already processed
+            
+            color[node] = 1  # Mark as visiting
+            for neighbor in graph[node]:
+                dfs(neighbor)
+            color[node] = 2  # Mark as processed
+            order.append(node)
+
         for i in range(numCourses):
-            if i not in visited:
-                if not dfs(i):
-                    return []  # If a cycle is detected, return empty list
+            if color[i] == 0:
+                dfs(i)
         
-        return order[::-1]  # Reverse the order for correct topological sorting
+        if not valid[0]:
+            return []
+        return order[::-1]  # Reverse to get topological order
