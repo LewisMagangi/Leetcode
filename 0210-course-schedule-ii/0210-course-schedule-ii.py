@@ -1,5 +1,3 @@
-from collections import deque
-
 class Solution(object):
     def findOrder(self, numCourses, prerequisites):
         """
@@ -7,25 +5,33 @@ class Solution(object):
         :type prerequisites: List[List[int]]
         :rtype: List[int]
         """
-        adjacency_list = {i: [] for i in range(numCourses)}
-        in_degree = [0] * numCourses
+        graph = {i :[] for i in range(numCourses)}
 
-        for course, prerequisite in prerequisites:
-            adjacency_list[prerequisite].append(course)
-            in_degree[course] += 1
+        for destination, source in prerequisites:
+            graph[source].append(destination)
         
-        queue = deque([course for course in range(numCourses) if in_degree[course] == 0])
+        state = [0] * numCourses
         order = []
+        valid = [True]
 
-        while queue:
-            course = queue.popleft()
+        def dfs(course):
+            if not valid[0]:
+                return
+
+            state[course] = 1
+            
+            for neighbor in graph[course]:
+                if state[neighbor] == 0:
+                    dfs(neighbor)
+                elif state[neighbor] == 1:
+                    valid[0] = False
+            state[course] = 2
             order.append(course)
 
-            for dependent in adjacency_list[course]:
-                in_degree[dependent] -= 1
-                if in_degree[dependent] == 0:
-                    queue.append(dependent)
-        
-        if len(order) == numCourses:
-            return order
-        return []
+        for i in range(numCourses):
+            if state[i] == 0:
+                dfs(i)
+
+        if not valid[0]:
+            return []
+        return order[::-1]
