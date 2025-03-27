@@ -11,6 +11,7 @@
 | [0150-evaluate-reverse-polish-notation](https://github.com/LewisMagangi/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/LewisMagangi/Leetcode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/LewisMagangi/Leetcode/tree/master/0202-happy-number) |
+| [0224-basic-calculator](https://github.com/LewisMagangi/Leetcode/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/LewisMagangi/Leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/LewisMagangi/Leetcode/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/LewisMagangi/Leetcode/tree/master/0326-power-of-three) |
@@ -42,6 +43,7 @@
 | [0125-valid-palindrome](https://github.com/LewisMagangi/Leetcode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/LewisMagangi/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/LewisMagangi/Leetcode/tree/master/0205-isomorphic-strings) |
+| [0224-basic-calculator](https://github.com/LewisMagangi/Leetcode/tree/master/0224-basic-calculator) |
 | [0242-valid-anagram](https://github.com/LewisMagangi/Leetcode/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/LewisMagangi/Leetcode/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/LewisMagangi/Leetcode/tree/master/0344-reverse-string) |
@@ -178,6 +180,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/LewisMagangi/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/LewisMagangi/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/LewisMagangi/Leetcode/tree/master/0155-min-stack) |
+| [0224-basic-calculator](https://github.com/LewisMagangi/Leetcode/tree/master/0224-basic-calculator) |
 | [0234-palindrome-linked-list](https://github.com/LewisMagangi/Leetcode/tree/master/0234-palindrome-linked-list) |
 ## Array
 |  |
@@ -402,6 +405,7 @@
 | [0025-reverse-nodes-in-k-group](https://github.com/LewisMagangi/Leetcode/tree/master/0025-reverse-nodes-in-k-group) |
 | [0203-remove-linked-list-elements](https://github.com/LewisMagangi/Leetcode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/LewisMagangi/Leetcode/tree/master/0206-reverse-linked-list) |
+| [0224-basic-calculator](https://github.com/LewisMagangi/Leetcode/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/LewisMagangi/Leetcode/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/LewisMagangi/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0326-power-of-three](https://github.com/LewisMagangi/Leetcode/tree/master/0326-power-of-three) |
