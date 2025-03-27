@@ -8,6 +8,7 @@
 | [0013-roman-to-integer](https://github.com/LewisMagangi/Leetcode/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/LewisMagangi/Leetcode/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/LewisMagangi/Leetcode/tree/master/0066-plus-one) |
+| [0069-sqrtx](https://github.com/LewisMagangi/Leetcode/tree/master/0069-sqrtx) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/LewisMagangi/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/LewisMagangi/Leetcode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/LewisMagangi/Leetcode/tree/master/0202-happy-number) |
@@ -297,6 +298,7 @@
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/LewisMagangi/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/LewisMagangi/Leetcode/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/LewisMagangi/Leetcode/tree/master/0069-sqrtx) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/LewisMagangi/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/LewisMagangi/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0222-count-complete-tree-nodes](https://github.com/LewisMagangi/Leetcode/tree/master/0222-count-complete-tree-nodes) |
