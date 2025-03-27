@@ -4,28 +4,33 @@ class Solution(object):
         :type s: str
         :rtype: int
         """
-        num_stack = []  # Stack for previous results before '('
-        op_stack = []    # Stack for signs before '('
-        num = 0          # Current number
-        result = 0       # Running total result
-        sign = 1         # 1 for '+', -1 for '-'
+        def helper(index):
+            stack = []
+            num = 0
+            sign = 1
 
-        for char in s:
-            if char.isdigit():  # Build number
-                num = num * 10 + int(char)
-            elif char in ["+", "-"]:  # Apply previous number and change sign
-                result += sign * num
-                num = 0
-                sign = 1 if char == "+" else -1
-            elif char == "(":  # Push current result & sign onto stack
-                num_stack.append(result)
-                op_stack.append(sign)
-                result = 0
-                sign = 1
-            elif char == ")":  # Complete parentheses evaluation
-                result += sign * num  # Add last number before ')'
-                num = 0
-                result *= op_stack.pop()  # Apply sign before '('
-                result += num_stack.pop()  # Add result before '('
+            while index < len(s):
+                char = s[index]
 
-        return result + (sign * num)  # Add last number if any
+                if char.isdigit():
+                    num = num * 10 + int(char)
+                
+                elif char in '+-':
+                    stack.append(sign * num)
+                    num = 0
+                    sign = 1 if char == '+' else -1
+                
+                
+                elif char == '(':
+                    num, index = helper(index + 1)
+
+                elif char == ')':
+                    stack.append(sign * num)
+                    return sum(stack), index
+                
+                index += 1
+
+            stack.append(sign * num)
+            return sum(stack)
+        return helper(0)
+        
