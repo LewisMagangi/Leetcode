@@ -237,6 +237,7 @@
 | [0274-h-index](https://github.com/LewisMagangi/Leetcode/tree/master/0274-h-index) |
 | [0287-find-the-duplicate-number](https://github.com/LewisMagangi/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0289-game-of-life](https://github.com/LewisMagangi/Leetcode/tree/master/0289-game-of-life) |
+| [0322-coin-change](https://github.com/LewisMagangi/Leetcode/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/LewisMagangi/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0380-insert-delete-getrandom-o1](https://github.com/LewisMagangi/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0399-evaluate-division](https://github.com/LewisMagangi/Leetcode/tree/master/0399-evaluate-division) |
@@ -267,6 +268,7 @@
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/LewisMagangi/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0139-word-break](https://github.com/LewisMagangi/Leetcode/tree/master/0139-word-break) |
 | [0198-house-robber](https://github.com/LewisMagangi/Leetcode/tree/master/0198-house-robber) |
+| [0322-coin-change](https://github.com/LewisMagangi/Leetcode/tree/master/0322-coin-change) |
 | [0392-is-subsequence](https://github.com/LewisMagangi/Leetcode/tree/master/0392-is-subsequence) |
 ## Queue
 |  |
@@ -496,6 +498,7 @@
 | [0207-course-schedule](https://github.com/LewisMagangi/Leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/LewisMagangi/Leetcode/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/LewisMagangi/Leetcode/tree/master/0226-invert-binary-tree) |
+| [0322-coin-change](https://github.com/LewisMagangi/Leetcode/tree/master/0322-coin-change) |
 | [0399-evaluate-division](https://github.com/LewisMagangi/Leetcode/tree/master/0399-evaluate-division) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/LewisMagangi/Leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/LewisMagangi/Leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
