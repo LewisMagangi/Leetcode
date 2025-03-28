@@ -1,3 +1,5 @@
+from collections import deque
+
 class Solution(object):
     def wordBreak(self, s, wordDict):
         """
@@ -5,16 +7,18 @@ class Solution(object):
         :type wordDict: List[str]
         :rtype: bool
         """
-        dp = [False] * (len(s) + 1)
-        dp[len(s)] = True
+        queue = deque([0])
+        visited = set()
 
-        for i in range((len(s) - 1), -1, -1):
+        while queue:
+            start = queue.popleft()
+
+            if start == len(s):
+                return True
+            
             for word in wordDict:
-                if (i + len(word)) <= len(s) and s[i : i + len(word)] == word:
-                    dp[i] = dp[i + len(word)]
-                if dp[i] == True:
-                    break
-        
-        return dp[0]
-
-        
+                end = start + len(word)
+                if end <= len(s) and s[start:end] == word and end not in visited:
+                    queue.append(end)
+                    visited.add(end)
+        return False
