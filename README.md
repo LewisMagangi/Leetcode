@@ -231,6 +231,7 @@
 | [0200-number-of-islands](https://github.com/LewisMagangi/Leetcode/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/LewisMagangi/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/LewisMagangi/Leetcode/tree/master/0219-contains-duplicate-ii) |
+| [0221-maximal-square](https://github.com/LewisMagangi/Leetcode/tree/master/0221-maximal-square) |
 | [0229-majority-element-ii](https://github.com/LewisMagangi/Leetcode/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/LewisMagangi/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/LewisMagangi/Leetcode/tree/master/0268-missing-number) |
@@ -268,6 +269,7 @@
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/LewisMagangi/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0139-word-break](https://github.com/LewisMagangi/Leetcode/tree/master/0139-word-break) |
 | [0198-house-robber](https://github.com/LewisMagangi/Leetcode/tree/master/0198-house-robber) |
+| [0221-maximal-square](https://github.com/LewisMagangi/Leetcode/tree/master/0221-maximal-square) |
 | [0322-coin-change](https://github.com/LewisMagangi/Leetcode/tree/master/0322-coin-change) |
 | [0392-is-subsequence](https://github.com/LewisMagangi/Leetcode/tree/master/0392-is-subsequence) |
 ## Queue
@@ -342,6 +344,7 @@
 | [0073-set-matrix-zeroes](https://github.com/LewisMagangi/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0130-surrounded-regions](https://github.com/LewisMagangi/Leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/LewisMagangi/Leetcode/tree/master/0200-number-of-islands) |
+| [0221-maximal-square](https://github.com/LewisMagangi/Leetcode/tree/master/0221-maximal-square) |
 | [0289-game-of-life](https://github.com/LewisMagangi/Leetcode/tree/master/0289-game-of-life) |
 | [0695-max-area-of-island](https://github.com/LewisMagangi/Leetcode/tree/master/0695-max-area-of-island) |
 | [2411-spiral-matrix-iv](https://github.com/LewisMagangi/Leetcode/tree/master/2411-spiral-matrix-iv) |
