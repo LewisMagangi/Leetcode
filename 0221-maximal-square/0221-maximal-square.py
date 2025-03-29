@@ -11,19 +11,34 @@ class Solution(object):
         
         rows, cols = len(matrix), len(matrix[0])
 
+        memoization = {}
+
         max_side = 0
 
-        dp = [[0] * cols for _ in range(rows)]
+        def dp(row, col):
+            """ Recursive function to compute the largest square ending at (i, j)
+            """
+            if row < 0 or col < 0:
+                return 0
+            
+            if (row, col) in memoization:
+                return memoization[(row, col)]
+            
+            if matrix[row][col] == 0:
+                memoization[(row, col)] = 0
+                return 0
+            
+             # Recursive case: Take the min of left, top, and top-left neighbors + 1
+            memoization[(i, j)] = min(dp(i-1, j), dp(i, j-1), dp(i-1, j-1)) + 1
+            return memoization[(i, j)]
 
-        for row in range(rows):
-            for col in range(cols):
-                if matrix[row][col] == 1:
-                    if row == 0 or col == 0:
-                        dp[row][col] = 1
-                    else:
-                        dp[row][col] = min(dp[row - 1][col], dp[row - 1][col - 1], dp[row][col - 1]) + 1
-                    max_side = max(max_side, dp[row][col])
+        for i in range(rows):
+            for j in range(cols):
+                max_side = max(max_side, dp(i, j))
+        
         max_area = max_side * max_side
-        return max_area
+        return max_area    
+
+
 
         
