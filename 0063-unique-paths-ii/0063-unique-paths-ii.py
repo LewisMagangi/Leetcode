@@ -6,18 +6,19 @@ class Solution(object):
         """
         rows, cols = len(grid), len(grid[0])
 
-        dp = [[0] * cols for _ in range(rows)]
+        if grid[0][0] == 1 or grid[rows - 1][cols - 1] == 1:
+            return 0
 
-        dp[0][0] = 1
+        dp = [0] * cols
+
+        dp[0] = 1
 
         for row in range(rows):
             for col in range(cols):
                 if grid[row][col] == 1:
-                    dp[row][col] = 0
-                elif row == 0 and col == 0:
-                    continue
-                else:
-                    dp[row][col] = (dp[row - 1][col] if row > 0 else 0) + (dp[row][col - 1] if col > 0 else 0)
+                    dp[col] = 0
+                elif col > 0:
+                    dp[col] += dp[col - 1]
 
-        return dp[rows - 1][cols - 1]
+        return dp[-1]
         
