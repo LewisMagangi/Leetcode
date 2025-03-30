@@ -1,19 +1,19 @@
+import bisect
+
 class Solution(object):
     def lengthOfLIS(self, nums):
         """
         :type nums: List[int]
         :rtype: int
         """
-        if not nums:
-            return 0
-        
-        n = len(nums)
-        dp = [1] * (n)
+        sub = []
 
-        for no in range(n):
-            for subsequence in range(no):
-                if nums[no] > nums[subsequence]:
-                    dp[no] = max(dp[no], dp[subsequence] + 1)
-        
-        return max(dp)
+        for num in nums:
+            idx = bisect_left(sub, num)
+
+            if idx == len(sub):
+                sub.append(num)
+            else:
+                sub[idx] = num
+        return len(sub)
         
