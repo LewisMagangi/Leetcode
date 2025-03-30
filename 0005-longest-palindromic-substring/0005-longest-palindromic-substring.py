@@ -4,29 +4,29 @@ class Solution(object):
         :type s: str
         :rtype: str
         """
-        n = len(s)
-        
-        if n == 0:
-            return ""
+        if not s or len(s) == 0:
+            return ''
 
-        dp = [[False] * n for _ in range(n)]
-        
-        start, max_length = 0, 1
+        start, max_length = 0, 0
 
-        for i in range(n):
-            dp[i][i] = True
-        
-        for i in range(n - 1):
-            if s[i] == s[i + 1]:
-                dp[i][i + 1] = True
-                start = i
-                max_length = 2
+        def expandAroundCenter(left, right):
+            while left >= 0 and right < len(s) and s[left] == s[right]:
+                left -= 1
+                right += 1
 
-        for length in range(3, n + 1):
-            for i in range(n - length + 1):
-                j = i + length - 1
-                if s[i] == s[j] and dp[i + 1][j - 1]:
-                    dp[i][j] = True
-                    start = i
-                    max_length = length
-        return s[start:start + max_length]
+            return left + 1, right - 1
+
+        for i in range(len(s)):
+            # Odd-length palindromes (centered at s[i])
+            left1, right1 = expandAroundCenter(i, i)
+            # Even-length palindromes (centered between s[i] and s[i+1])
+            left2, right2 = expandAroundCenter(i, i + 1)
+
+            if right1 - left1 > max_length:
+                start, max_length = left1, right1 - left1
+            if right2 - left2 > max_length:
+                start, max_length = left2, right2 - left2
+                
+        return s[start:start + max_length + 1]
+
+        
