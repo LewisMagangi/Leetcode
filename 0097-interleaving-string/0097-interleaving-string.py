@@ -6,31 +6,23 @@ class Solution(object):
         :type s3: str
         :rtype: bool
         """
-        if len(s1) + len(s2) != len(s3):
-                return False
+        n, m = len(s2), len(s1)
 
-        dp = {}
-
-        def dfs(i, j):
-            # First testcase
-            if (i, j) in dp:
-                return dp[(i, j)]
-
-            # Second testcase
-            if len(s1) == i and len(s2) == j:
-                return True
-
-            if i < len(s1) and s1[i] == s3[i + j] and dfs(i + 1, j):
-                dp[(i, j)] = True
-                return True
-            
-            if j < len(s2) and s2[j] == s3[i + j] and dfs(i, j + 1):
-                dp[(i, j)] = True
-                return True
-            
-            dp[(i, j)] = False
+        if m + n != len(s3):
             return False
-        
-        return dfs(0, 0)
 
+        dp = [[False] * (n + 1) for _ in range(m + 1)] # m = rows, n = cols
+
+        dp[0][0] = True
+        
+        for i in range(m + 1):
+            for j in range(n + 1):
+                
+                if i > 0 and s1[i - 1] == s3[i + j - 1]:
+                    dp[i][j] = dp[i][j] or dp[i - 1][j]
+                if j > 0 and s2[j - 1] == s3[i + j - 1]:
+                    dp[i][j] = dp[i][j] or dp[i][j - 1]
+                
+        return dp[m][n]
+                
         
