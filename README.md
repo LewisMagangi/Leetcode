@@ -24,6 +24,7 @@
 | [0412-fizz-buzz](https://github.com/LewisMagangi/Leetcode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/LewisMagangi/Leetcode/tree/master/0415-add-strings) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/LewisMagangi/Leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
+| [2032-largest-odd-number-in-string](https://github.com/LewisMagangi/Leetcode/tree/master/2032-largest-odd-number-in-string) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/LewisMagangi/Leetcode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/LewisMagangi/Leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## String
@@ -67,6 +68,7 @@
 | [0451-sort-characters-by-frequency](https://github.com/LewisMagangi/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0680-valid-palindrome-ii](https://github.com/LewisMagangi/Leetcode/tree/master/0680-valid-palindrome-ii) |
 | [1746-largest-substring-between-two-equal-characters](https://github.com/LewisMagangi/Leetcode/tree/master/1746-largest-substring-between-two-equal-characters) |
+| [2032-largest-odd-number-in-string](https://github.com/LewisMagangi/Leetcode/tree/master/2032-largest-odd-number-in-string) |
 | [2427-first-letter-to-appear-twice](https://github.com/LewisMagangi/Leetcode/tree/master/2427-first-letter-to-appear-twice) |
 | [2886-faulty-keyboard](https://github.com/LewisMagangi/Leetcode/tree/master/2886-faulty-keyboard) |
 | [2887-sort-vowels-in-a-string](https://github.com/LewisMagangi/Leetcode/tree/master/2887-sort-vowels-in-a-string) |
@@ -332,6 +334,7 @@
 | [0135-candy](https://github.com/LewisMagangi/Leetcode/tree/master/0135-candy) |
 | [0409-longest-palindrome](https://github.com/LewisMagangi/Leetcode/tree/master/0409-longest-palindrome) |
 | [0680-valid-palindrome-ii](https://github.com/LewisMagangi/Leetcode/tree/master/0680-valid-palindrome-ii) |
+| [2032-largest-odd-number-in-string](https://github.com/LewisMagangi/Leetcode/tree/master/2032-largest-odd-number-in-string) |
 ## Binary Search
 |  |
 | ------- |
