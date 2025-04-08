@@ -4,19 +4,9 @@ class Solution(object):
         :type words: List[str]
         :rtype: int
         """
-        words.sort(key=len)
-        max_chain_length = 1
         dp = {}
+        for word in sorted(words, key=len):
+            dp[word] = max(dp.get(word[:i] + word[i+1:], 0) + 1 for i in xrange(len(word)))
 
-        for word in words:
-            dp[word] = 1
-
-            for j in range(len(word)):
-                predecessor = word[:j] + word[j+1:]
-                
-                if predecessor in dp:
-                    dp[word] = max(dp[word], dp[predecessor] + 1)
-                
-            max_chain_length = max(max_chain_length, dp[word])
+        return max(dp.values())
         
-        return max_chain_length
