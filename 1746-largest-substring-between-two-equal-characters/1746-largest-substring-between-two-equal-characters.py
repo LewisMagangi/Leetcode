@@ -4,14 +4,18 @@ class Solution(object):
         :type s: str
         :rtype: int
         """
-        first_index = {}
+        v1 = [-1] * 26
+        v2 = [-1] * 26
         max_len = -1
 
-        for i, char in enumerate(s):
-            if char in first_index:
-                max_len = max(max_len, i - first_index[char] - 1)
-            else:
-                first_index[char] = i
+        for i in range(len(s)):
+            temp = ord(s[i]) - ord('a')
 
-        return max_len        
+            if v1[temp] == -1:
+                v1[temp] = i
+            else:
+                v2[temp] = i
+                max_len = max(max_len, v2[temp] - v1[temp] - 1)
+                
+        return max_len
         
