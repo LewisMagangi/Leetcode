@@ -4,19 +4,14 @@ class Solution(object):
         :type nums: List[int]
         :rtype: List[str]
         """
-        res = []
-        i = 0
-
-        while i < len(nums):
-            start = nums[i]
-
-            while i < len(nums) - 1 and nums[i] + 1 == nums[i + 1]:
-                i += 1
+        ranges = []
+        for num in nums:
             
-            if nums[i] == start:
-                res.append(str(nums[i]))
-            else:
-                res.append(str(start) + '->' + str(nums[i]))
+            if not ranges or num > ranges[-1][-1] + 1:
+                ranges += [],
+            ranges[-1][1:] = num,
             
-            i += 1
-        return res
+        return ['->'.join(map(str, i)) for i in ranges]
+
+            
+        
