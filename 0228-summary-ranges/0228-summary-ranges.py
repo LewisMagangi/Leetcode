@@ -4,14 +4,13 @@ class Solution(object):
         :type nums: List[int]
         :rtype: List[str]
         """
-        ranges = []
-        for num in nums:
-            
-            if not ranges or num > ranges[-1][-1] + 1:
-                ranges += [],
-            ranges[-1][1:] = num,
-            
-        return ['->'.join(map(str, i)) for i in ranges]
+        ranges, range = [], []
 
-            
-        
+        for num in nums:
+
+            if num - 1 not in range:
+                range = []
+                ranges += range, # ranges.append(range)
+            range[1:] = num,
+
+        return ['->'.join(map(str, range)) for range in ranges]
