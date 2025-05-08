@@ -9,6 +9,7 @@
 | [0048-rotate-image](https://github.com/LewisMagangi/Leetcode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/LewisMagangi/Leetcode/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/LewisMagangi/Leetcode/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/LewisMagangi/Leetcode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/LewisMagangi/Leetcode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/LewisMagangi/Leetcode/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/LewisMagangi/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -43,6 +44,7 @@
 | [0030-substring-with-concatenation-of-all-words](https://github.com/LewisMagangi/Leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0049-group-anagrams](https://github.com/LewisMagangi/Leetcode/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/LewisMagangi/Leetcode/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/LewisMagangi/Leetcode/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/LewisMagangi/Leetcode/tree/master/0068-text-justification) |
 | [0071-simplify-path](https://github.com/LewisMagangi/Leetcode/tree/master/0071-simplify-path) |
 | [0072-edit-distance](https://github.com/LewisMagangi/Leetcode/tree/master/0072-edit-distance) |
@@ -77,6 +79,7 @@
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/LewisMagangi/Leetcode/tree/master/0054-spiral-matrix) |
+| [0067-add-binary](https://github.com/LewisMagangi/Leetcode/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/LewisMagangi/Leetcode/tree/master/0068-text-justification) |
 | [0289-game-of-life](https://github.com/LewisMagangi/Leetcode/tree/master/0289-game-of-life) |
 | [0412-fizz-buzz](https://github.com/LewisMagangi/Leetcode/tree/master/0412-fizz-buzz) |
@@ -277,6 +280,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/LewisMagangi/Leetcode/tree/master/0067-add-binary) |
 | [0222-count-complete-tree-nodes](https://github.com/LewisMagangi/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/LewisMagangi/Leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/LewisMagangi/Leetcode/tree/master/0268-missing-number) |
