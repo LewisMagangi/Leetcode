@@ -1,5 +1,11 @@
-class Solution:
-    def findKDistantIndices(self, nums: List[int], key: int, k: int) -> List[int]:
+class Solution(object):
+    def findKDistantIndices(self, nums, key, k):
+        """
+        :type nums: List[int]
+        :type key: int
+        :type k: int
+        :rtype: List[int]
+        """
         '''
         steps
         1. Find the indices j where nums[j] == key, 
@@ -59,25 +65,9 @@ class Solution:
         '''
 
         num_index = {}
-        # j_indices = []
         k_distance_indices = []
 
-        """
-        for index, num in enumerate(nums):
-            # No need for this check will fix later
-            if num in num_index:
-                num_index[num] += [index]
-            else:
-                num_index[num] += [index]
-        """
-
         j_indices = [j for j in range(len(nums)) if nums[j] == key]
-
-        """
-        for ky, value in num_index:
-            if ky == key:
-                j_indices += value
-        """
 
         for i in range(len(nums)):
             for j in j_indices:
@@ -87,5 +77,4 @@ class Solution:
                     break
 
         return k_distance_indices
-                
         
