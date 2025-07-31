@@ -171,6 +171,7 @@
 | [0908-middle-of-the-linked-list](https://github.com/LewisMagangi/Leetcode/tree/master/0908-middle-of-the-linked-list) |
 | [1129-longest-string-chain](https://github.com/LewisMagangi/Leetcode/tree/master/1129-longest-string-chain) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/LewisMagangi/Leetcode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
+| [2320-find-all-k-distant-indices-in-an-array](https://github.com/LewisMagangi/Leetcode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 ## String Matching
 |  |
 | ------- |
@@ -283,6 +284,7 @@
 | [0816-design-hashset](https://github.com/LewisMagangi/Leetcode/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/LewisMagangi/Leetcode/tree/master/0817-design-hashmap) |
 | [1129-longest-string-chain](https://github.com/LewisMagangi/Leetcode/tree/master/1129-longest-string-chain) |
+| [2320-find-all-k-distant-indices-in-an-array](https://github.com/LewisMagangi/Leetcode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2411-spiral-matrix-iv](https://github.com/LewisMagangi/Leetcode/tree/master/2411-spiral-matrix-iv) |
 ## Bit Manipulation
 |  |
