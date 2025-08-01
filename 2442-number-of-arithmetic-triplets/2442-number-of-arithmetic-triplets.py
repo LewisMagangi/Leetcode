@@ -1,3 +1,5 @@
+from collections import Counter
+
 class Solution(object):
     def arithmeticTriplets(self, nums, diff):
         """
@@ -5,9 +7,9 @@ class Solution(object):
         :type diff: int
         :rtype: int
         """
-        seen, count = set(nums), 0
+        freq, count = Counter(nums), 0
 
         for num in nums:
-            if num + diff in seen and num + 2*diff in seen:
+            if num + diff in freq and num +  (2 * diff) in freq:
                 count += 1
         return count
