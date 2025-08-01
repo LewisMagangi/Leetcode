@@ -1,5 +1,3 @@
-from collections import defaultdict
-
 class Solution(object):
     def checkDistances(self, s, distance):
         """
@@ -7,14 +5,15 @@ class Solution(object):
         :type distance: List[int]
         :rtype: bool
         """
-        string_indices_difference = defaultdict(int)
+        first_occurence = [-1] * 26
 
-        for index, letter in enumerate(s):
-            if letter in string_indices_difference:
-                actual_distance = index - (string_indices_difference[letter] + 1)
-                expected_distance = distance[ord(letter) - ord('a')]
-                if actual_distance != expected_distance:
-                    return False
+        for i, char in enumerate(s):
+            index = ord(char) - ord('a')
+        
+            if first_occurence[index] == -1:
+                first_occurence[index] = i  
             else:
-                string_indices_difference[letter] = index
+                actual_distance = i - first_occurence[index] - 1
+                if actual_distance != distance[index]:
+                    return False
         return True
