@@ -73,6 +73,7 @@
 | [1746-largest-substring-between-two-equal-characters](https://github.com/LewisMagangi/Leetcode/tree/master/1746-largest-substring-between-two-equal-characters) |
 | [2032-largest-odd-number-in-string](https://github.com/LewisMagangi/Leetcode/tree/master/2032-largest-odd-number-in-string) |
 | [2427-first-letter-to-appear-twice](https://github.com/LewisMagangi/Leetcode/tree/master/2427-first-letter-to-appear-twice) |
+| [2476-check-distances-between-same-letters](https://github.com/LewisMagangi/Leetcode/tree/master/2476-check-distances-between-same-letters) |
 | [2886-faulty-keyboard](https://github.com/LewisMagangi/Leetcode/tree/master/2886-faulty-keyboard) |
 | [2887-sort-vowels-in-a-string](https://github.com/LewisMagangi/Leetcode/tree/master/2887-sort-vowels-in-a-string) |
 ## Simulation
@@ -133,6 +134,7 @@
 | [1746-largest-substring-between-two-equal-characters](https://github.com/LewisMagangi/Leetcode/tree/master/1746-largest-substring-between-two-equal-characters) |
 | [2427-first-letter-to-appear-twice](https://github.com/LewisMagangi/Leetcode/tree/master/2427-first-letter-to-appear-twice) |
 | [2442-number-of-arithmetic-triplets](https://github.com/LewisMagangi/Leetcode/tree/master/2442-number-of-arithmetic-triplets) |
+| [2476-check-distances-between-same-letters](https://github.com/LewisMagangi/Leetcode/tree/master/2476-check-distances-between-same-letters) |
 ## Trie
 |  |
 | ------- |
@@ -289,6 +291,7 @@
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/LewisMagangi/Leetcode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2411-spiral-matrix-iv](https://github.com/LewisMagangi/Leetcode/tree/master/2411-spiral-matrix-iv) |
 | [2442-number-of-arithmetic-triplets](https://github.com/LewisMagangi/Leetcode/tree/master/2442-number-of-arithmetic-triplets) |
+| [2476-check-distances-between-same-letters](https://github.com/LewisMagangi/Leetcode/tree/master/2476-check-distances-between-same-letters) |
 ## Bit Manipulation
 |  |
 | ------- |
