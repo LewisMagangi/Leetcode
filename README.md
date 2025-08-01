@@ -132,6 +132,7 @@
 | [1129-longest-string-chain](https://github.com/LewisMagangi/Leetcode/tree/master/1129-longest-string-chain) |
 | [1746-largest-substring-between-two-equal-characters](https://github.com/LewisMagangi/Leetcode/tree/master/1746-largest-substring-between-two-equal-characters) |
 | [2427-first-letter-to-appear-twice](https://github.com/LewisMagangi/Leetcode/tree/master/2427-first-letter-to-appear-twice) |
+| [2442-number-of-arithmetic-triplets](https://github.com/LewisMagangi/Leetcode/tree/master/2442-number-of-arithmetic-triplets) |
 ## Trie
 |  |
 | ------- |
@@ -172,6 +173,7 @@
 | [1129-longest-string-chain](https://github.com/LewisMagangi/Leetcode/tree/master/1129-longest-string-chain) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/LewisMagangi/Leetcode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/LewisMagangi/Leetcode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
+| [2442-number-of-arithmetic-triplets](https://github.com/LewisMagangi/Leetcode/tree/master/2442-number-of-arithmetic-triplets) |
 ## String Matching
 |  |
 | ------- |
@@ -286,6 +288,7 @@
 | [1129-longest-string-chain](https://github.com/LewisMagangi/Leetcode/tree/master/1129-longest-string-chain) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/LewisMagangi/Leetcode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2411-spiral-matrix-iv](https://github.com/LewisMagangi/Leetcode/tree/master/2411-spiral-matrix-iv) |
+| [2442-number-of-arithmetic-triplets](https://github.com/LewisMagangi/Leetcode/tree/master/2442-number-of-arithmetic-triplets) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -671,4 +674,8 @@
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/LewisMagangi/Leetcode/tree/master/0148-sort-list) |
+## Enumeration
+|  |
+| ------- |
+| [2442-number-of-arithmetic-triplets](https://github.com/LewisMagangi/Leetcode/tree/master/2442-number-of-arithmetic-triplets) |
 <!---LeetCode Topics End-->
