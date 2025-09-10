@@ -197,6 +197,7 @@
 | [0347-top-k-frequent-elements](https://github.com/LewisMagangi/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0389-find-the-difference](https://github.com/LewisMagangi/Leetcode/tree/master/0389-find-the-difference) |
 | [0451-sort-characters-by-frequency](https://github.com/LewisMagangi/Leetcode/tree/master/0451-sort-characters-by-frequency) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/LewisMagangi/Leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [1129-longest-string-chain](https://github.com/LewisMagangi/Leetcode/tree/master/1129-longest-string-chain) |
 | [2887-sort-vowels-in-a-string](https://github.com/LewisMagangi/Leetcode/tree/master/2887-sort-vowels-in-a-string) |
 ## Stack
@@ -284,6 +285,7 @@
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/LewisMagangi/Leetcode/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0380-insert-delete-getrandom-o1](https://github.com/LewisMagangi/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0399-evaluate-division](https://github.com/LewisMagangi/Leetcode/tree/master/0399-evaluate-division) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/LewisMagangi/Leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0518-coin-change-ii](https://github.com/LewisMagangi/Leetcode/tree/master/0518-coin-change-ii) |
 | [0695-max-area-of-island](https://github.com/LewisMagangi/Leetcode/tree/master/0695-max-area-of-island) |
 | [0816-design-hashset](https://github.com/LewisMagangi/Leetcode/tree/master/0816-design-hashset) |
@@ -369,6 +371,7 @@
 | [0134-gas-station](https://github.com/LewisMagangi/Leetcode/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/LewisMagangi/Leetcode/tree/master/0135-candy) |
 | [0409-longest-palindrome](https://github.com/LewisMagangi/Leetcode/tree/master/0409-longest-palindrome) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/LewisMagangi/Leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0680-valid-palindrome-ii](https://github.com/LewisMagangi/Leetcode/tree/master/0680-valid-palindrome-ii) |
 | [2032-largest-odd-number-in-string](https://github.com/LewisMagangi/Leetcode/tree/master/2032-largest-odd-number-in-string) |
 ## Binary Search
