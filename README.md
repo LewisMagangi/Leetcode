@@ -177,6 +177,7 @@
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/LewisMagangi/Leetcode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/LewisMagangi/Leetcode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2442-number-of-arithmetic-triplets](https://github.com/LewisMagangi/Leetcode/tree/master/2442-number-of-arithmetic-triplets) |
+| [2592-maximize-greatness-of-an-array](https://github.com/LewisMagangi/Leetcode/tree/master/2592-maximize-greatness-of-an-array) |
 ## String Matching
 |  |
 | ------- |
@@ -200,6 +201,7 @@
 | [0451-sort-characters-by-frequency](https://github.com/LewisMagangi/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/LewisMagangi/Leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [1129-longest-string-chain](https://github.com/LewisMagangi/Leetcode/tree/master/1129-longest-string-chain) |
+| [2592-maximize-greatness-of-an-array](https://github.com/LewisMagangi/Leetcode/tree/master/2592-maximize-greatness-of-an-array) |
 | [2887-sort-vowels-in-a-string](https://github.com/LewisMagangi/Leetcode/tree/master/2887-sort-vowels-in-a-string) |
 ## Stack
 |  |
@@ -297,6 +299,7 @@
 | [2411-spiral-matrix-iv](https://github.com/LewisMagangi/Leetcode/tree/master/2411-spiral-matrix-iv) |
 | [2442-number-of-arithmetic-triplets](https://github.com/LewisMagangi/Leetcode/tree/master/2442-number-of-arithmetic-triplets) |
 | [2476-check-distances-between-same-letters](https://github.com/LewisMagangi/Leetcode/tree/master/2476-check-distances-between-same-letters) |
+| [2592-maximize-greatness-of-an-array](https://github.com/LewisMagangi/Leetcode/tree/master/2592-maximize-greatness-of-an-array) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -377,6 +380,7 @@
 | [0680-valid-palindrome-ii](https://github.com/LewisMagangi/Leetcode/tree/master/0680-valid-palindrome-ii) |
 | [2032-largest-odd-number-in-string](https://github.com/LewisMagangi/Leetcode/tree/master/2032-largest-odd-number-in-string) |
 | [2591-distribute-money-to-maximum-children](https://github.com/LewisMagangi/Leetcode/tree/master/2591-distribute-money-to-maximum-children) |
+| [2592-maximize-greatness-of-an-array](https://github.com/LewisMagangi/Leetcode/tree/master/2592-maximize-greatness-of-an-array) |
 ## Binary Search
 |  |
 | ------- |
