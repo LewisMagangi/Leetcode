@@ -88,6 +88,7 @@
 | [0415-add-strings](https://github.com/LewisMagangi/Leetcode/tree/master/0415-add-strings) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/LewisMagangi/Leetcode/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2411-spiral-matrix-iv](https://github.com/LewisMagangi/Leetcode/tree/master/2411-spiral-matrix-iv) |
+| [2593-find-score-of-an-array-after-marking-all-elements](https://github.com/LewisMagangi/Leetcode/tree/master/2593-find-score-of-an-array-after-marking-all-elements) |
 | [2886-faulty-keyboard](https://github.com/LewisMagangi/Leetcode/tree/master/2886-faulty-keyboard) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/LewisMagangi/Leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Hash Table
@@ -136,6 +137,7 @@
 | [2427-first-letter-to-appear-twice](https://github.com/LewisMagangi/Leetcode/tree/master/2427-first-letter-to-appear-twice) |
 | [2442-number-of-arithmetic-triplets](https://github.com/LewisMagangi/Leetcode/tree/master/2442-number-of-arithmetic-triplets) |
 | [2476-check-distances-between-same-letters](https://github.com/LewisMagangi/Leetcode/tree/master/2476-check-distances-between-same-letters) |
+| [2593-find-score-of-an-array-after-marking-all-elements](https://github.com/LewisMagangi/Leetcode/tree/master/2593-find-score-of-an-array-after-marking-all-elements) |
 ## Trie
 |  |
 | ------- |
@@ -202,6 +204,7 @@
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/LewisMagangi/Leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [1129-longest-string-chain](https://github.com/LewisMagangi/Leetcode/tree/master/1129-longest-string-chain) |
 | [2592-maximize-greatness-of-an-array](https://github.com/LewisMagangi/Leetcode/tree/master/2592-maximize-greatness-of-an-array) |
+| [2593-find-score-of-an-array-after-marking-all-elements](https://github.com/LewisMagangi/Leetcode/tree/master/2593-find-score-of-an-array-after-marking-all-elements) |
 | [2887-sort-vowels-in-a-string](https://github.com/LewisMagangi/Leetcode/tree/master/2887-sort-vowels-in-a-string) |
 ## Stack
 |  |
@@ -300,6 +303,7 @@
 | [2442-number-of-arithmetic-triplets](https://github.com/LewisMagangi/Leetcode/tree/master/2442-number-of-arithmetic-triplets) |
 | [2476-check-distances-between-same-letters](https://github.com/LewisMagangi/Leetcode/tree/master/2476-check-distances-between-same-letters) |
 | [2592-maximize-greatness-of-an-array](https://github.com/LewisMagangi/Leetcode/tree/master/2592-maximize-greatness-of-an-array) |
+| [2593-find-score-of-an-array-after-marking-all-elements](https://github.com/LewisMagangi/Leetcode/tree/master/2593-find-score-of-an-array-after-marking-all-elements) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -361,6 +365,7 @@
 | [0347-top-k-frequent-elements](https://github.com/LewisMagangi/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/LewisMagangi/Leetcode/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0451-sort-characters-by-frequency](https://github.com/LewisMagangi/Leetcode/tree/master/0451-sort-characters-by-frequency) |
+| [2593-find-score-of-an-array-after-marking-all-elements](https://github.com/LewisMagangi/Leetcode/tree/master/2593-find-score-of-an-array-after-marking-all-elements) |
 ## Bucket Sort
 |  |
 | ------- |
