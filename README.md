@@ -304,6 +304,7 @@
 | [2476-check-distances-between-same-letters](https://github.com/LewisMagangi/Leetcode/tree/master/2476-check-distances-between-same-letters) |
 | [2592-maximize-greatness-of-an-array](https://github.com/LewisMagangi/Leetcode/tree/master/2592-maximize-greatness-of-an-array) |
 | [2593-find-score-of-an-array-after-marking-all-elements](https://github.com/LewisMagangi/Leetcode/tree/master/2593-find-score-of-an-array-after-marking-all-elements) |
+| [2594-minimum-time-to-repair-cars](https://github.com/LewisMagangi/Leetcode/tree/master/2594-minimum-time-to-repair-cars) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -404,6 +405,7 @@
 | [0287-find-the-duplicate-number](https://github.com/LewisMagangi/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/LewisMagangi/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/LewisMagangi/Leetcode/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [2594-minimum-time-to-repair-cars](https://github.com/LewisMagangi/Leetcode/tree/master/2594-minimum-time-to-repair-cars) |
 ## Divide and Conquer
 |  |
 | ------- |
