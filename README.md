@@ -26,6 +26,7 @@
 | [0415-add-strings](https://github.com/LewisMagangi/Leetcode/tree/master/0415-add-strings) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/LewisMagangi/Leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [2032-largest-odd-number-in-string](https://github.com/LewisMagangi/Leetcode/tree/master/2032-largest-odd-number-in-string) |
+| [2591-distribute-money-to-maximum-children](https://github.com/LewisMagangi/Leetcode/tree/master/2591-distribute-money-to-maximum-children) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/LewisMagangi/Leetcode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/LewisMagangi/Leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## String
@@ -375,6 +376,7 @@
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/LewisMagangi/Leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0680-valid-palindrome-ii](https://github.com/LewisMagangi/Leetcode/tree/master/0680-valid-palindrome-ii) |
 | [2032-largest-odd-number-in-string](https://github.com/LewisMagangi/Leetcode/tree/master/2032-largest-odd-number-in-string) |
+| [2591-distribute-money-to-maximum-children](https://github.com/LewisMagangi/Leetcode/tree/master/2591-distribute-money-to-maximum-children) |
 ## Binary Search
 |  |
 | ------- |
