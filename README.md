@@ -307,6 +307,7 @@
 | [2592-maximize-greatness-of-an-array](https://github.com/LewisMagangi/Leetcode/tree/master/2592-maximize-greatness-of-an-array) |
 | [2593-find-score-of-an-array-after-marking-all-elements](https://github.com/LewisMagangi/Leetcode/tree/master/2593-find-score-of-an-array-after-marking-all-elements) |
 | [2594-minimum-time-to-repair-cars](https://github.com/LewisMagangi/Leetcode/tree/master/2594-minimum-time-to-repair-cars) |
+| [3537-fill-a-special-grid](https://github.com/LewisMagangi/Leetcode/tree/master/3537-fill-a-special-grid) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -422,6 +423,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/LewisMagangi/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/LewisMagangi/Leetcode/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0347-top-k-frequent-elements](https://github.com/LewisMagangi/Leetcode/tree/master/0347-top-k-frequent-elements) |
+| [3537-fill-a-special-grid](https://github.com/LewisMagangi/Leetcode/tree/master/3537-fill-a-special-grid) |
 ## Quickselect
 |  |
 | ------- |
@@ -448,6 +450,7 @@
 | [0289-game-of-life](https://github.com/LewisMagangi/Leetcode/tree/master/0289-game-of-life) |
 | [0695-max-area-of-island](https://github.com/LewisMagangi/Leetcode/tree/master/0695-max-area-of-island) |
 | [2411-spiral-matrix-iv](https://github.com/LewisMagangi/Leetcode/tree/master/2411-spiral-matrix-iv) |
+| [3537-fill-a-special-grid](https://github.com/LewisMagangi/Leetcode/tree/master/3537-fill-a-special-grid) |
 ## Union Find
 |  |
 | ------- |
