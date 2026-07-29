@@ -4,7 +4,17 @@ class Solution(object):
         :type n: int
         :rtype: int
         """
-        product = [int(i) for i in str(n)]
-        product.sort()
+        max_1 = max_2 = 0
 
-        return int(product[-1]) * int(product[-2])
+        while n:
+            rem = n % 10
+
+            if rem >= max_1:
+                max_2 = max_1
+                max_1 = rem
+            elif rem > max_2:
+                max_2 = rem
+            
+            n //= 10
+        
+        return max_1 * max_2
