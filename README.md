@@ -28,6 +28,7 @@
 | [2032-largest-odd-number-in-string](https://github.com/LewisMagangi/Leetcode/tree/master/2032-largest-odd-number-in-string) |
 | [2591-distribute-money-to-maximum-children](https://github.com/LewisMagangi/Leetcode/tree/master/2591-distribute-money-to-maximum-children) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/LewisMagangi/Leetcode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
+| [3536-maximum-product-of-two-digits](https://github.com/LewisMagangi/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/LewisMagangi/Leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## String
 |  |
@@ -206,6 +207,7 @@
 | [2592-maximize-greatness-of-an-array](https://github.com/LewisMagangi/Leetcode/tree/master/2592-maximize-greatness-of-an-array) |
 | [2593-find-score-of-an-array-after-marking-all-elements](https://github.com/LewisMagangi/Leetcode/tree/master/2593-find-score-of-an-array-after-marking-all-elements) |
 | [2887-sort-vowels-in-a-string](https://github.com/LewisMagangi/Leetcode/tree/master/2887-sort-vowels-in-a-string) |
+| [3536-maximum-product-of-two-digits](https://github.com/LewisMagangi/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
 ## Stack
 |  |
 | ------- |
